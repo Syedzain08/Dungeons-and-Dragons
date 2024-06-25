@@ -13,6 +13,10 @@ Hi! This is the site for the players of the campaign module "Dragon Of Icespire 
 
 A list of players and player characters are provided below:
 
-1. Arez Asif  as Aegnor Elessar
-2. Muhammed Abdul Rafay Siddique as Balasar Norixius
+1. Arez Asif  as [[Players/Aegnor Elessar\|Aegnor Elessar]]
+2. Muhammed Abdul Rafay Siddique as [[Players/Balasar Norixius\|Balasar Norixius]]
+3. Faizan Ul Islam as [[Players/Reginleif Spiritwalker\|Reginleif Spiritwalker]]
+4. Abdul Raheem as [[Players/Lucifer Morningstar\|Lucifer Morningstar]]
+5. Subhan as [[Players/Will Buyers\|Will Buyers]]
+
 
