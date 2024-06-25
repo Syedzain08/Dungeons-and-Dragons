@@ -3,8 +3,11 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    background: var(--background-primary);
-    color: var(--text-normal);
-    font-family: var(--font-default);
+      background-color: black;
+      .content {
+       font-size: 14px;
+      }
+      h1 {
+       color: grey;
       }
 }
