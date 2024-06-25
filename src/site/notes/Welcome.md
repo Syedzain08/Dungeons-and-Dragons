@@ -23,7 +23,7 @@ A list of players and player characters are provided below:
 
 These are some of the key locations you need to know:
 
-1. [[World/Faerun/Sword Coast/Phandalin\|Phandalin]]
+1. [[World/Faerun/Sword Coast/Phandalin/Phandalin\|Phandalin]]
 
 
 
