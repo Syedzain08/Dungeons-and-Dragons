@@ -19,4 +19,13 @@ A list of players and player characters are provided below:
 4. Abdul Raheem as [[Players/Lucifer Morningstar\|Lucifer Morningstar]]
 5. Subhan as [[Players/Will Buyers\|Will Buyers]]
 
+## Key Locations
+
+These are some of the key locations you need to know:
+
+1. [[World/Faerun/Sword Coast/Phandalin\|Phandalin]]
+
+
+
+
 
