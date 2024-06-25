@@ -1,7 +1,13 @@
-body {
+body class=theme-dark {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    theme-dark
+      background-color: black;
+      .content {
+       font-size: 14px;
+      }
+      h1 {
+       color: grey;
+      }
 }
