@@ -26,7 +26,6 @@ body {
     font-size: 14px;
 }
 
-
 h1 {
     font-size: 24px;
     font-family: 'Roboto', sans-serif;
@@ -34,7 +33,7 @@ h1 {
 }
 
 .navbar {
-    background-color: (rgb(13, 15, 18);
+    background-color: rgb(13, 15, 18); /* Fixed background color */
     position: absolute;
     width: 100%;
     top: 0;
@@ -45,8 +44,10 @@ h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
     @media (max-width: 1400px) {
         position: fixed;
     }
+} 
 
 
