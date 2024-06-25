@@ -34,7 +34,6 @@ h1 {
     margin-bottom: 10px;
 }
 
-
 .navbar {
     background-color: #010409; 
     position: absolute;
@@ -51,8 +50,9 @@ h1 {
     @media (max-width: 1400px) {
         position: fixed;
     }
-ol li {
-    color: #0000EE; !important;
 }
-} 
+
+ol li {
+    color: #0000EE !important; 
+}
 
