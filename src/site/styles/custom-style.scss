@@ -6,6 +6,7 @@
     --text-normal: #dcddde;
     --text-accent: rgb(97, 186, 245);
     --file-margins: 32px;
+    --h1-color: #0099cc; 
 
     --callout-border-width: 0px;
     --callout-border-opacity: 0.25;
@@ -28,8 +29,8 @@ body {
 
 h1 {
     font-size: 24px;
-    font-family: 'Roboto', sans-serif;
-    color: #0099cc;
+    font-family: Roboto, sans-serif;
+    color: var(--h1-color);
 }
 
 
