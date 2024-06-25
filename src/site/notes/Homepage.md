@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
-This is the homepage
+**Welcome to the Campaign support website!**
 
-[[this is the second page\|this is the second page]]
+
