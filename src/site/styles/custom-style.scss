@@ -53,8 +53,8 @@ h1 {
 }
 
 
-ol {
-    list-style-color: #0000EE; 
+ol li::marker {
+    color: #0000EE; /* Color for the list marker */
 }
 
 
