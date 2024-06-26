@@ -19,31 +19,31 @@
 }
 
 body {
-    background-color: #0d1117;
-    font-family: 'Roboto', sans-serif;
+    background-color: #0d1117 !important; 
+    font-family: 'Roboto', sans-serif !important;
 }
 
 .content {
-    font-size: 14px;
-    color: var(--text-normal); /* Adjusted text color for better readability */
+    font-size: 14px !important;
+    color: var(--text-normal) !important; /* Adjusted text color for better readability */
 }
 
 h1 {
-    font-size: 24px;
-    font-family: Roboto, sans-serif;
-    color: var(--h1-color);
-    margin-bottom: 10px;
+    font-size: 24px !important;
+    font-family: Roboto, sans-serif !important;
+    color: var(--h1-color) !important;
+    margin-bottom: 10px !important;
 }
 
 .navbar {
-    background-color: #010409;
-    position: absolute;
-    width: 100%;
+    background-color: #010409 !important;
+    position: absolute !important;
+    width: 100% !important;
     top: 0;
     left: 0;
     right: 0;
     z-index: 3;
-    padding-left: var(--file-margins);
+    padding-left: var(--file-margins) !important;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -56,13 +56,13 @@ h1 {
 }
 
 ol li::marker {
-    color: #00bfff; /* Adjusted marker color */ !important
+    color: #00bfff !important; /* Adjusted marker color */
 }
 
 ol li a {
-    color: #00ffff; /* Adjusted link color */
+    color: #00ffff !important; /* Adjusted link color */
 }
 
 p {
-    color: #cccccc; /* Adjusted paragraph text color */
+    color: #cccccc !important; /* Adjusted paragraph text color */
 }
