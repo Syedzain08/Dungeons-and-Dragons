@@ -6,7 +6,7 @@
     --text-normal: #dcddde;
     --text-accent: rgb(97, 186, 245);
     --file-margins: 32px;
-    --h1-color: #0099cc; 
+    --h1-color: #0099cc;
 
     --callout-border-width: 0px;
     --callout-border-opacity: 0.25;
@@ -25,6 +25,7 @@ body {
 
 .content {
     font-size: 14px;
+    color: var(--text-normal); /* Adjusted text color for better readability */
 }
 
 h1 {
@@ -35,7 +36,7 @@ h1 {
 }
 
 .navbar {
-    background-color: #010409; 
+    background-color: #010409;
     position: absolute;
     width: 100%;
     top: 0;
@@ -46,21 +47,22 @@ h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
 
-    @media (max-width: 1400px) {
+@media (max-width: 1400px) {
+    .navbar {
         position: fixed;
     }
-
-p {
-    color: #cccccc; 
 }
 
 ol li::marker {
-    color: #00bfff; 
+    color: #00bfff; /* Adjusted marker color */
 }
 
 ol li a {
-    color: #00ffff;
+    color: #00ffff; /* Adjusted link color */
 }
 
-
+p {
+    color: #cccccc; /* Adjusted paragraph text color */
+}
