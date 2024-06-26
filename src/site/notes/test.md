@@ -7,9 +7,7 @@
 
 Here is the interactive map:
 
-<object type="image/svg+xml+png" data="map.png" style="width: 100px; height: 100px;">
-    Your browser does not support SVG.
-</object>
+<embed src="map.svg" type="image/svg+xml" style="width: 100px; height: 100px;" />
 
 [Link to Page](pages/pagename)
 
