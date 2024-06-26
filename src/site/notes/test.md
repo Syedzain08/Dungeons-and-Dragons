@@ -6,10 +6,12 @@
 
 Here is the interactive map:
 
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-    <a xlink:href="/pages/pagename">
-        <circle cx="50" cy="50" r="10" fill="red"/>
-    </a>
-</svg>
+# Your Page Title
+
+Here is the interactive map:
+
+<img src="World/Faerun/Sword Coast/Drawing 2024-06-26 00.59.29.excalidraw.svg" alt="Map" style="width: 100px; height: 100px;">
 
 [Link to Page](pages/pagename)
+
+
