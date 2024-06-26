@@ -7,7 +7,7 @@
 
 Here is the interactive map:
 
-<embed src="map.svg" type="image/svg+xml" style="width: 100px; height: 100px;" />
+<embed src="map.png" type="image/svg+xml+png" style="width: 100px; height: 100px;" />
 
 [Link to Page](pages/pagename)
 
