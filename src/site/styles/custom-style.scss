@@ -56,7 +56,7 @@ h1 {
 }
 
 ol li::marker {
-    color: #00bfff; /* Adjusted marker color */
+    color: #00bfff; /* Adjusted marker color */ !important
 }
 
 ol li a {
