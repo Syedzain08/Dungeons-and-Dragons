@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
 # Welcome to the Campaign support website!
@@ -31,6 +31,6 @@ The Realms encompass the world of Abeir-Toril (usually just called Toril) meanin
 - **[Katashaka](https://forgottenrealms.fandom.com/wiki/Katashaka "Katashaka")**: South of Maztica. Unexplored.[[11\|11]](https://forgottenrealms.fandom.com/wiki/Toril#cite_note-TGHotR-29-30-11)
 - **[Laerakond](https://forgottenrealms.fandom.com/wiki/Laerakond "Laerakond")**: A continent formerly located in the world of Abeir, a land of [dragon](https://forgottenrealms.fandom.com/wiki/Dragon "Dragon") empires and "new" cultures.[[13\|13]](https://forgottenrealms.fandom.com/wiki/Toril#cite_note-FRCG-p200-13)
 - **[Osse](https://forgottenrealms.fandom.com/wiki/Osse "Osse")**: Populated by spiritualists and [druids](https://forgottenrealms.fandom.com/wiki/Druid "Druid"), the spirit world and nature dominated the lives of its inhabitants. Unexplored
-tbc
+
 
 
