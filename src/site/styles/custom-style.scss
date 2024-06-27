@@ -78,3 +78,8 @@ ol li a {
 p {
     color: #cccccc !important; /* Adjusted paragraph text color */
 }
+
+img {
+    object-fit: contain;
+    object-position: center;
+}
