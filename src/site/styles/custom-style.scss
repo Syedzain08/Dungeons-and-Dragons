@@ -78,7 +78,7 @@ ol li a {
 p {
     color: #cccccc !important; /* Adjusted paragraph text color */
 }
-
+/* img not scaling properly on mobile */
 img {
     object-fit: contain;
     object-position: center;
