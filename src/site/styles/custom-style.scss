@@ -79,9 +79,11 @@ p {
     color: #cccccc !important; /* Adjusted paragraph text color */
 }
 /* img not scaling properly on mobile */
-g {
-    object-fit: contain;
-    object-position: center;
+svg {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: block;
 }
 
 @media only screen and (max-width: 768px) {
