@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Hi! This is the site for the players of the campaign module "Dragon Of Icespire Peak" as run by Zain Ul Abideen. This site will give you information about the lore, worldbuilding, and storyline aspects of the campaign. Some of this information will be readily available online or be in the official lore or module however, some of the lore may not be found anywhere else due to it being homebrew so, without further ado, let us embark on a quest of a lifetime!
+Hi! This is the site for the players of the campaign module "Dragon Of Icespire Peak" as run by Zain Ul Abideen. This site will give you Insight into the lore, worldbuilding, and storyline aspects of the campaign. This site will give you as much information as necessary to ensure a smooth gaming experience but, will only give you very broad knowledge. The details will be updated as you discover it. Some of this information will be readily available online or be in the official lore or module however, some of the lore may not be found anywhere else due to it being homebrew so, without further ado, let us embark on a quest of a lifetime!
 
 ## The Players
 
@@ -23,14 +23,15 @@ A list of players and player characters are provided below:
 This adventure is set in official setting of "The Forgotten Realms". The Forgotten Realms or The Realms is has the most detail in it than any other D&D setting. It was made back in 1967 and thousands of people have contributed to it over the years. More than 10,000 books have been published using it so, truly a gargantuan amount. 
 
 The Realms encompass the world of Abeir-Toril (usually just called Toril) meaning "Cradle of life" in an ancient and forgotten language, an Earth-like planet with many large continents. These Continents are named as follows:
-- **[Faerûn](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn "Faerûn")**: The westernmost portion of Toril's central supercontinent, a diverse landscape inhabited by numerous races and cultures, including [humans](https://forgottenrealms.fandom.com/wiki/Human "Human"), [dwarves](https://forgottenrealms.fandom.com/wiki/Dwarf "Dwarf"), [elves](https://forgottenrealms.fandom.com/wiki/Elf "Elf"), [halflings](https://forgottenrealms.fandom.com/wiki/Halfling "Halfling"), and [gnomes](https://forgottenrealms.fandom.com/wiki/Gnome "Gnome").[[6\|6]](https://forgottenrealms.fandom.com/wiki/Toril#cite_note-FRCS2e-p4-6)
-- **[Zakhara](https://forgottenrealms.fandom.com/wiki/Zakhara "Zakhara")**: A mostly hot, arid realm dominated by elemental forces and a philosophy of [Fate](https://forgottenrealms.fandom.com/wiki/Fate "Fate") and Honor.[[10\|10]](https://forgottenrealms.fandom.com/wiki/Toril#cite_note-FRCS2e-p5-10)
-- **[Kara-Tur](https://forgottenrealms.fandom.com/wiki/Kara-Tur "Kara-Tur")**: The east, steeped in ancient history.[[10\|10]](https://forgottenrealms.fandom.com/wiki/Toril#cite_note-FRCS2e-p5-10)
-- **[Maztica](https://forgottenrealms.fandom.com/wiki/Maztica "Maztica")**: Primitive cultures bound by duty to their gods gave blood sacrifices in return for power while those who disagreed with the practice struggled to survive.[[10\|10]](https://forgottenrealms.fandom.com/wiki/Toril#cite_note-FRCS2e-p5-10)
-- **[Anchorome](https://forgottenrealms.fandom.com/wiki/Anchorome "Anchorome")**: Hardly explored, seemingly populated with violent elves and more of the humans found in Maztica.[[9\|9]](https://forgottenrealms.fandom.com/wiki/Toril#cite_note-G&G-p10-9)
-- **[Katashaka](https://forgottenrealms.fandom.com/wiki/Katashaka "Katashaka")**: South of Maztica. Unexplored.[[11\|11]](https://forgottenrealms.fandom.com/wiki/Toril#cite_note-TGHotR-29-30-11)
-- **[Laerakond](https://forgottenrealms.fandom.com/wiki/Laerakond "Laerakond")**: A continent formerly located in the world of Abeir, a land of [dragon](https://forgottenrealms.fandom.com/wiki/Dragon "Dragon") empires and "new" cultures.[[13\|13]](https://forgottenrealms.fandom.com/wiki/Toril#cite_note-FRCG-p200-13)
-- **[Osse](https://forgottenrealms.fandom.com/wiki/Osse "Osse")**: Populated by spiritualists and [druids](https://forgottenrealms.fandom.com/wiki/Druid "Druid"), the spirit world and nature dominated the lives of its inhabitants. Unexplored
 
+- **[[Faerûn\|Faerûn]]:** Faerûn is a vast and diverse continent filled with a myriad of cultures, nations, and creatures. It's the most famous and central part of the world of Abeir-Toril, where adventurers can find everything from bustling cities and ancient ruins to untamed wilderness and magical phenomena.
+- **Kara-Tur:** Kara-Tur lies to the east of Faerûn, known for its rich cultural diversity and exotic lands. It is inspired by East Asian cultures and features grand empires, mystical traditions, and ancient martial arts.
+- **Maztica:** Located to the west of Faerûn across the Trackless Sea, Maztica is a land of jungles, mountains, and ancient civilizations. It is heavily inspired by Mesoamerican cultures and is known for its fierce warriors, grand temples, and rich natural resources.
+- **Zakhara:** Also known as the Land of Fate, Zakhara lies to the south of Faerûn, across the Sea of Stars. It is characterized by its Arabian Nights-inspired setting, with vast deserts, bustling trade cities, and a deep connection to elemental magic.
+- **Anchorome:** Little is known about Anchorome, which lies west of Maztica. It is a land of mystery and legend, with vast wildernesses and untold secrets waiting to be discovered.
+- **osse:** Osse is a distant and largely uncharted land located to the southeast of Faerûn. It is known for its unique and exotic wildlife, dense jungles, and indigenous cultures deeply connected to the natural world. The land is shrouded in mystery and offers endless opportunities for exploration and discovery.
+- **Laerakrond:** Laerakond, also known as Returned Abeir, is a continent that emerged from the merging of the twin worlds of Abeir and Toril. It features a blend of new and ancient civilizations, powerful dragons, and vast landscapes that include deserts, mountains, and fertile plains. Laerakond is a land of magic and mystery, where the old world meets the new.
+- **Katashaka:** Katashaka is a wild and untamed continent located to the south of Maztica. It is covered in dense jungles and savannas and is home to fierce tribes, dangerous wildlife, and ancient ruins. Much of it remains unexplored, making it a land of adventure and peril.
+ 
 
 
