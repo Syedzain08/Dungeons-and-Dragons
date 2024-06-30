@@ -22,9 +22,9 @@ A list of players and player characters are provided below:
 
 This adventure is set in official setting of "The Forgotten Realms". The Forgotten Realms or The Realms is has the most detail in it than any other D&D setting. It was made back in 1967 and thousands of people have contributed to it over the years. More than 10,000 books have been published using it so, truly a gargantuan amount. 
 
-The Realms encompass the world of Abeir-Toril (usually just called Toril) meaning "Cradle of life" in an ancient and forgotten language, an Earth-like planet with many large continents. These Continents are named as follows:
+The Realms encompass the world of [[World/Abeir-Toril\|Abeir-Toril]] (usually just called Toril) meaning "Cradle of life" in an ancient and forgotten language, an Earth-like planet with many large continents. These Continents are named as follows:
 
-- **[[Faerûn\|Faerûn]]:** Faerûn is a vast and diverse continent filled with a myriad of cultures, nations, and creatures. It's the most famous and central part of the world of Abeir-Toril, where adventurers can find everything from bustling cities and ancient ruins to untamed wilderness and magical phenomena.
+- **[[World/Faerun/Faerun\|Faerun]]:** Faerun is a vast and diverse continent filled with a myriad of cultures, nations, and creatures. It's the most famous and central part of the world of Abeir-Toril, where adventurers can find everything from bustling cities and ancient ruins to untamed wilderness and magical phenomena.
 - **Kara-Tur:** Kara-Tur lies to the east of Faerûn, known for its rich cultural diversity and exotic lands. It is inspired by East Asian cultures and features grand empires, mystical traditions, and ancient martial arts.
 - **Maztica:** Located to the west of Faerûn across the Trackless Sea, Maztica is a land of jungles, mountains, and ancient civilizations. It is heavily inspired by Mesoamerican cultures and is known for its fierce warriors, grand temples, and rich natural resources.
 - **Zakhara:** Also known as the Land of Fate, Zakhara lies to the south of Faerûn, across the Sea of Stars. It is characterized by its Arabian Nights-inspired setting, with vast deserts, bustling trade cities, and a deep connection to elemental magic.
