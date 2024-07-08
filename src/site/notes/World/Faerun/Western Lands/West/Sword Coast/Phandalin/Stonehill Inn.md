@@ -4,3 +4,14 @@
 
 # Stonehill inn
 
+The interior map (Day):
+
+![3.jpg](/img/user/Images/Stonehill%20Inn/3.jpg)
+
+![4.jpg](/img/user/Images/Stonehill%20Inn/4.jpg)
+
+The interior (Night):
+
+![1.jpg](/img/user/Images/Stonehill%20Inn/1.jpg)
+
+![2.jpg](/img/user/Images/Stonehill%20Inn/2.jpg)
