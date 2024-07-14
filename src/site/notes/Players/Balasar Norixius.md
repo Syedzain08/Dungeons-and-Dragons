@@ -9,7 +9,8 @@ Balasar Norixius is a former acolyte and a devout follower of Bahamut. He is a y
 
 **Current Main Objective**
 
- - ==After the old dragon who was his teacher, mentor and overall father figure passed, he is given a prophecy and a mission. to go to the heart of the Kryptgarden Forest. What dangers and mysteries await him and his party?==
+ - After the old dragon who was his teacher, mentor and overall father figure passed, he is given a prophecy and a mission. to go to the heart of the Kryptgarden Forest. What dangers and mysteries await him and his party?
+
  **Apearance**
  ![rafay-dragonborn.png](/img/user/rafay-dragonborn.png)
 Balasar is a tall and clean looking dragonborn, despite the trend of being bloody in the dragon-kin. He prefers to give life rather than take it. He has a terrifying jaw of a ice dragon causing many to run away in fear. He usually wears a cloak or hood to conceal his face.
