@@ -20,11 +20,11 @@ A list of players and player characters are provided below:
 5. Subhan as [[Players/Will Buyers/Will Buyers\|Will Buyers]]
 
 ## Session Recaps:
+[[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 1 Recap\|Session 1 Recap]]
 
-![[Session 1 Recap.docx]]
-![[Session 2 Recap.docx]]
-![[Session 3 Recap.docx]]
+[[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 2 Recap\|Session 2 Recap]]
 
+[[Session 3 Recap.docx]]
 ## The Setting
 
 This adventure is set in official setting of "The Forgotten Realms". The Forgotten Realms or The Realms is has the most detail in it than any other D&D setting. It was made back in 1967 and thousands of people have contributed to it over the years. More than 10,000 books have been published using it so, truly a gargantuan amount. 
