@@ -24,7 +24,7 @@ A list of players and player characters are provided below:
 
 [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 2 Recap\|Session 2 Recap]]
 
-[[Session 3 Recap.docx]]
+[[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 3 Recap\|Session 3 Recap]]
 ## The Setting
 
 This adventure is set in official setting of "The Forgotten Realms". The Forgotten Realms or The Realms is has the most detail in it than any other D&D setting. It was made back in 1967 and thousands of people have contributed to it over the years. More than 10,000 books have been published using it so, truly a gargantuan amount. 
