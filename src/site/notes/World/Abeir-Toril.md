@@ -6,5 +6,5 @@
 # Abeir-Toril (Cradle Of Life)
 
 
-The Map for Abeir-Toril is 180MB in size and so is not hosted here. You can find the original file here:
-https://www.worldanvil.com/w/the-forgotten-realms-voit/map/aae516bd-ca41-4a3a-9b32-5059ba8f6146
+The map for Abeir-Toril, Due to it's enormous size: 185MB, is unavailable here. You can check it out over here:
+https://www.worldanvil.com/w/the-forgotten-realms-abeir-toril-briangermain/map/5f76ecdc-794f-49f1-b952-2220ac78f53f
