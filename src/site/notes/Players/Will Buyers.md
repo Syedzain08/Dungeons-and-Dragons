@@ -6,9 +6,9 @@
 
 **Arcane Prodigy, Human Wizard (with a Touch of Netheril Blood)**
 
-**Motivation:**
+**Current Mission:**
 
-An inferno of hatred burns within Will Buyers, fueled not just by the white dragon Cryovain's icy demise of his parents, but also by the scorn he receives for his heritage. Whispers claim he carries the blood of the fallen Netheril Empire, a lineage some view with suspicion and even fear, including the formidable Queen Raedra el Persakhal of Cormyr. This potent mix of vengeance, ostracization, and a connection to a powerful, lost civilization shapes Will's destiny. He is determined to hone his arcane talents, not just to confront Cryovain, but to perhaps even reclaim the legacy of the Netheril, or forge his own path entirely.
+* An inferno of hatred burns within Will Buyers, fueled not just by the white dragon Cryovain's icy demise of his parents, but also by the scorn he receives for his heritage. Whispers claim he carries the blood of the fallen Netheril Empire, a lineage some view with suspicion and even fear, including the formidable Queen Raedra el Persakhal of Cormyr. This potent mix of vengeance, ostracization, and a connection to a powerful, lost civilization shapes Will's destiny. He is determined to hone his arcane talents, not just to confront Cryovain, but to perhaps even reclaim the legacy of the Netheril, or forge his own path entirely.
 
 **Appearance:**
 
