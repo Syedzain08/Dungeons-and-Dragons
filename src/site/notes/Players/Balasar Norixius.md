@@ -4,23 +4,25 @@
 
 # Balasar Norixius
 
-**Info**
-Balasar Norixius is a former acolyte and a devout follower of Bahamut. He is a young ice dragonborn, not one a mission for vengeance but peace. A dragonborn cleric, though rare are not at all impossible, he is a living example that dragon0kin can be peaceful and not pure evil monsters that many believe them to be. 
+**Balasar Norixius** - Acolyte of Bahamut, Dragonborn Cleric
 
-**Current Main Objective**
+**Current Mission:**
 
- - After the old dragon who was his teacher, mentor and overall father figure passed, he is given a prophecy and a mission. to go to the heart of the Kryptgarden Forest. What dangers and mysteries await him and his party?
+* Prophecy whispers of a destiny within the emerald embrace of the Kryptgarden Forest. Led by the cryptic message and the memory of his fallen mentor, Balasar ventures into the unknown, a beacon of hope amidst the tangled shadows.
 
- **Apearance**
- ![rafay-dragonborn.png](/img/user/rafay-dragonborn.png)
-Balasar is a tall and clean looking dragonborn, despite the trend of being bloody in the dragon-kin. He prefers to give life rather than take it. He has a terrifying jaw of a ice dragon causing many to run away in fear. He usually wears a cloak or hood to conceal his face.
+**Appearance:**
 
-**Backstory**
+![Images/Characters/Player Characters/rafay-dragonborn.png](/img/user/Images/Characters/Player%20Characters/rafay-dragonborn.png)
+Balasar stands tall and proud, his scales shimmering with the cool hues of glaciers. Unlike his kin, he bears no scars of violence; his polished scales speak of a life dedicated to healing, not destruction. Though his ice dragon heritage grants him a fearsome jawline, his demeanor is gentle, often concealed by a traveler's cloak or a respectful hood.
 
-Balasar's mother and father were slain in a brutal attack upon their family home. The grief of these losses led the young dragonborn to seek shelter with an elder dragon. This wise creature served as a guide and protector to the boy, offering comfort and safety in the absence of his birth parents. With the wisdom of the elder dragon, the young dragonborn became a cleric, pledging his life to the protection of others, just as the elder dragon had protected him.
+**Backstory: A Spark of Compassion in the Dragon's Fire**
 
-In time, he and the elder dragon came to the Sword Coast, drawn to the city of Phandalin, where they hoped to find a new home.
+The world stained crimson. The roars of battle, a symphony of chaos, echoed through the dragonborn village. Young Balasar, no more than a hatchling, witnessed the carnage firsthand. Fire and steel consumed his world, leaving behind a chilling emptiness where his family once resided. Lost and alone, the tremors of grief led him to a secluded mountain range, a place whispered to be the refuge of an ancient dragon.
 
-In the heart of Phandalin, Balasar's path would soon intersect with the tale of Cryovain, a young white dragon that had brought terror and destruction throughout the region. As he settled into his new life, the young dragonborn cleric soon learned of the dragon's menace, and he knew that he was duty-bound to confront this threat and protect the innocent lives that had been affected.
+There, amidst the snow-capped peaks, he found not a fearsome beast, but a creature of wisdom and weathered grace. This elder dragon, a being of legend etched in ice and time, became Balasar's sanctuary. Under the dragon's tutelage, the embers of vengeance smoldering within the young dragonborn were replaced by a spark of compassion. He learned the ancient language of healing, the power of positive energy that pulsed within him, a stark contrast to the destructive fire that coursed through most dragonborn.
 
-Though the elders and leaders of Phandalin had their own methods to try and deal with Cryovain, Balasar felt that his connection to the elder dragon had given him a deeper insight into the beast's nature.
+Years turned to seasons, and the bond between the young cleric and the elder dragon deepened. Drawn by the promise of a new life, they ventured towards the Sword Coast, a land teeming with possibility. Phandalin, a bustling city nestled amidst rolling hills, became their haven. There, Balasar honed his skills, tending the wounds of weary travelers and spreading the word of Bahamut, the Platinum Dragon, a beacon of justice and order.
+
+But a shadow soon darkened Phandalin's idyllic facade. A young white dragon, Cryovain, descended upon the region, leaving a trail of destruction in its wake. The tales of its reign of terror ignited a fire within Balasar, a fire tempered not by vengeance, but by the unwavering belief in redemption. He knew, deep within his soul, that Cryovain could be more than a terror, its fury perhaps a consequence of a misguided path.
+
+The whispers of destiny, however, took a different turn. A cryptic prophecy, delivered by a flickering candle flame or a rustling leaf carried by the wind (depending on whom you ask), spoke of a greater purpose within the heart of the Kryptgarden Forest. The details remained as elusive as the shadows that danced between the ancient trees, yet Balasar knew, with an unwavering certainty, that this was his calling. With a heavy heart, he bade farewell to the sanctuary of Phandalin, leaving behind the warmth of the city for the untamed wilderness. The echo of his mentor's wisdom and the unwavering faith in Bahamut's light became his compass, guiding him towards the mysteries that awaited within the emerald depths of the Kryptgarden Forest.
