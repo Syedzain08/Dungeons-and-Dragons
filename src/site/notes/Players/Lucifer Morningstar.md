@@ -7,9 +7,9 @@
 
 **Champion of Phandalin, Human Fighter**
 
-**Mission:**
+**Current Mission:**
 
-Justice burns with an incandescent fury in the eyes of Lucifer Morningstar. This warrior, a beacon of hope residing in Phandalin, joins the fray, his blade a burning vow etched in vengeance and unwavering righteousness. He battles with his own demons, seeking a hiding place from the constant voice in his head by battling his heart out.
+* Justice burns with an incandescent fury in the eyes of Lucifer Morningstar. This warrior, a beacon of hope residing in Phandalin, joins the fray, his blade a burning vow etched in vengeance and unwavering righteousness. He battles with his own demons, seeking a hiding place from the constant voice in his head by battling his heart out.
 
 **Appearance:**
 
