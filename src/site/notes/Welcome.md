@@ -4,7 +4,7 @@
 
 # Welcome to the Campaign support website!
 
-# (Beta: 1.0:)
+# (Beta: 1.0)
 
 ## Introduction
 
