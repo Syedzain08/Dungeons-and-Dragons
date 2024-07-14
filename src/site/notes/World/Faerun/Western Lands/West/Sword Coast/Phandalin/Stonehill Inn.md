@@ -15,3 +15,6 @@ The interior (Night):
 ![1.jpg](/img/user/Images/Stonehill%20Inn/1.jpg)
 
 ![2.jpg](/img/user/Images/Stonehill%20Inn/2.jpg)
+
+
+Getting Edited!

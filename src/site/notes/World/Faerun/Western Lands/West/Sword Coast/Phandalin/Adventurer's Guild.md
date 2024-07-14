@@ -4,3 +4,5 @@
 
 
 # Adventurer's Guild
+
+Coming soon!
