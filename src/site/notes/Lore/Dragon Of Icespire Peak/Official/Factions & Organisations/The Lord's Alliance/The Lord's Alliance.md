@@ -42,7 +42,7 @@ The Lord's Alliance is at war with the [[Lore/Dragon Of Icespire Peak/Official/F
 
 - **Defense of Member Cities:** Ensuring the protection of major cities like [[World/Faerun/Western Lands/West/Waterdeep\|Waterdeep]] and [[World/Faerun/Western Lands/West/Baldur's Gate\|Baldur's Gate]] from [[Lore/Dragon Of Icespire Peak/Official/Factions & Organisations/Zhentarim/Zhentarim\|Zhentarim]] aggression.
 - **Strategic Military Operations:** Coordinating joint military efforts to counter [[Lore/Dragon Of Icespire Peak/Official/Factions & Organisations/Zhentarim/Zhentarim\|Zhentarim]] advances and disrupt their operations.
-- **Political Maneuvering:** Navigating complex political landscapes to secure alliances and gather support against the [[[Zhentarim\|[Zhentarim]] threat.
+- **Political Maneuvering:** Navigating complex political landscapes to secure alliances and gather support against the [[Lore/Dragon Of Icespire Peak/Official/Factions & Organisations/Zhentarim/Zhentarim\|Zhentarim]] threat.
 
 #### Conclusion
 
