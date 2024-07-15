@@ -9,7 +9,7 @@
 ## What's New?
 
 - Over 36 articles have been added.
-- Everything has been updated except the things that are most heavily homebrewed such as Phandalin.
+- Everything has been updated except the things that are most heavily homebrewed such as [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]].
 - Security has been upgraded to prevent DDOS attacks.
 - Check out [[Lore/Dragon Of Icespire Peak/Homebrew/The Prophecy/The Prophecy\|The Prophecy]]
 - Who is [[Lore/Dragon Of Icespire Peak/Official/Characters/Elminster Aumar\|Elminster Aumar]]?
