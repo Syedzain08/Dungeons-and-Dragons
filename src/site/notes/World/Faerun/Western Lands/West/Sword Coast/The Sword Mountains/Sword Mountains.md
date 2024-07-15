@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/west/sword-coast/the-sword-mountains/sword-mountains/"}
 ---
 
-
-# Sword Mountains
-
-The Sword Mountains, aptly named for their jagged peaks that pierce the sky like a frozen army of blades, form a formidable barrier on the Sword Coast of the Forgotten Realms. Stretching for hundreds of miles, this formidable range serves as a harsh and unforgiving divide, separating the bustling civilization of the coast from the untamed wilds beyond.
+The Sword Mountains, aptly named for their jagged peaks that pierce the sky like a frozen army of blades, form a formidable barrier on the [[World/Faerun/Western Lands/West/Sword Coast/Sword Coast\|Sword Coast]] of the Forgotten Realms. Stretching for hundreds of miles, this formidable range serves as a harsh and unforgiving divide, separating the bustling civilization of the coast from the untamed wilds beyond.
 
 **A Landscape of Majesty and Menace:**
 
@@ -30,3 +27,6 @@ The Sword Mountains are steeped in history. Crumbling ruins of dwarven stronghol
 **A Gateway to Adventure:**
 
 For many adventurers, the Sword Mountains are a place of challenge and opportunity. The promise of hidden treasures, powerful magic, and legendary beasts lures them into the treacherous peaks. But only the bravest, most skilled, and perhaps a touch foolhardy souls will emerge from the mountains unscathed, forever marked by the harsh beauty and unforgiving nature of the Sword Mountains.
+
+**Travel or listen to rumors to learn more about this place!**
+

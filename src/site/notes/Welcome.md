@@ -4,8 +4,16 @@
 
 # Welcome to the Campaign support website!
 
-# (Beta: 1.0)
+# (Beta: 2.0)
 
+## What's New?
+
+- Over 36 articles have been added.
+- Everything has been updated except the things that are most heavily homebrewed such as Phandalin.
+- Security has been upgraded to prevent DDOS attacks.
+- Check out [[Lore/Dragon Of Icespire Peak/Homebrew/The Prophecy/The Prophecy\|The Prophecy]]
+- Who is [[Lore/Dragon Of Icespire Peak/Official/Characters/Elminster Aumar\|Elminster Aumar]]?
+- The ancient and powerful: [[Lore/Dragon Of Icespire Peak/Official/Kingdoms & Cities/The Netheril Empire\|The Netheril Empire]]
 ## Introduction
 
 Hi! This is the site for the players of the campaign module "Dragon Of Icespire Peak" as run by Zain Ul Abideen. This site will give you Insight into the lore, worldbuilding, and storyline aspects of the campaign. This site will give you as much information as necessary to ensure a smooth gaming experience but, will only give you very broad knowledge. The details will be updated as you discover it. Some of this information will be readily available online or be in the official lore or module however, some of the lore may not be found anywhere else due to it being homebrew so, without further ado, let us embark on a quest of a lifetime!
@@ -32,13 +40,19 @@ This adventure is set in official setting of "The Forgotten Realms". The Forgott
 
 The Realms encompass the world of [[World/Abeir-Toril\|Abeir-Toril]] (usually just called Toril) meaning "Cradle of life" in an ancient and forgotten language, an Earth-like planet with many large continents. These Continents are named as follows:
 
-- **[[World/Faerun/Faerun\|Faerun]]:** Faerun is a vast and diverse continent filled with a myriad of cultures, nations, and creatures. It's the most famous and central part of the world of Abeir-Toril, where adventurers can find everything from bustling cities and ancient ruins to untamed wilderness and magical phenomena.
-- **Kara-Tur:** Kara-Tur lies to the east of Faerûn, known for its rich cultural diversity and exotic lands. It is inspired by East Asian cultures and features grand empires, mystical traditions, and ancient martial arts.
-- **Maztica:** Located to the west of Faerûn across the Trackless Sea, Maztica is a land of jungles, mountains, and ancient civilizations. It is heavily inspired by Mesoamerican cultures and is known for its fierce warriors, grand temples, and rich natural resources.
-- **Zakhara:** Also known as the Land of Fate, Zakhara lies to the south of Faerûn, across the Sea of Stars. It is characterized by its Arabian Nights-inspired setting, with vast deserts, bustling trade cities, and a deep connection to elemental magic.
+- **[[World/Faerun/Faerun\|Faerun]]:** is a vast and diverse continent filled with a myriad of cultures, nations, and creatures. It's the most famous and central part of the world of [[World/Abeir-Toril\|Abeir-Toril]], where adventurers can find everything from bustling cities and ancient ruins to untamed wilderness and magical phenomena.
+
+- **Kara-Tur:** Kara-Tur lies to the east of [[World/Faerun/Faerun\|Faerun]], known for its rich cultural diversity and exotic lands. It is inspired by East Asian cultures and features grand empires, mystical traditions, and ancient martial arts.
+
+- **Maztica:** Located to the west of [[World/Faerun/Faerun\|Faerun]] across the Trackless Sea, Maztica is a land of jungles, mountains, and ancient civilizations. It is heavily inspired by Mesoamerican cultures and is known for its fierce warriors, grand temples, and rich natural resources.
+
+- **Zakhara:** Also known as the Land of Fate, Zakhara lies to the south of [[World/Faerun/Faerun\|Faerun]], across the Sea of Stars. It is characterized by its Arabian Nights-inspired setting, with vast deserts, bustling trade cities, and a deep connection to elemental magic.
 - **Anchorome:** Little is known about Anchorome, which lies west of Maztica. It is a land of mystery and legend, with vast wildernesses and untold secrets waiting to be discovered.
-- **osse:** Osse is a distant and largely uncharted land located to the southeast of Faerûn. It is known for its unique and exotic wildlife, dense jungles, and indigenous cultures deeply connected to the natural world. The land is shrouded in mystery and offers endless opportunities for exploration and discovery.
+
+- **osse:** Osse is a distant and largely uncharted land located to the southeast of [[World/Faerun/Faerun\|Faerun]]. It is known for its unique and exotic wildlife, dense jungles, and indigenous cultures deeply connected to the natural world. The land is shrouded in mystery and offers endless opportunities for exploration and discovery.
+
 - **Laerakrond:** Laerakond, also known as Returned Abeir, is a continent that emerged from the merging of the twin worlds of Abeir and Toril. It features a blend of new and ancient civilizations, powerful dragons, and vast landscapes that include deserts, mountains, and fertile plains. Laerakond is a land of magic and mystery, where the old world meets the new.
+
 - **Katashaka:** Katashaka is a wild and untamed continent located to the south of Maztica. It is covered in dense jungles and savannas and is home to fierce tribes, dangerous wildlife, and ancient ruins. Much of it remains unexplored, making it a land of adventure and peril.
  
 

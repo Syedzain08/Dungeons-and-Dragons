@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/west/sword-coast/neverwinter-wood/neverwinter-wood/"}
 ---
 
-
-# Neverwinter Wood
-
 The Neverwinter Wood isn't a place you enter lightly. It's a dense, primeval forest that presses in on all sides, sunlight struggling to pierce the thick canopy overhead. Towering oaks and ancient pines stand shoulder-to-shoulder, their branches forming a tangled web that blocks out much of the sky. The air hangs heavy with moisture, carrying the earthy scent of damp soil and decaying leaves.
 
 An unsettling quiet reigns, broken only by the occasional rustle of unseen creatures or the mournful cry of a distant bird. An unnatural stillness pervades, a feeling that the forest itself is holding its breath, watching. The ground beneath your feet is a soft carpet of moss and fallen needles, muffling your steps and creating an unsettling sense of isolation.
@@ -18,3 +15,5 @@ But beneath this veneer of beauty lies a lurking danger. The Neverwinter Wood is
 Rumors abound of monstrous creatures that stalk the shadows – hulking wolves with eyes like burning embers, goblins with a taste for cruelty, and even whispers of ancient fey creatures that lure the unwary to their doom.
 
 The Neverwinter Wood is a place of contrasts – beautiful yet treacherous, alluring yet terrifying. It is a land of mystery and magic, and those who dare to enter must be prepared for anything.
+
+**Travel or listen to rumors to learn more about this place!**
