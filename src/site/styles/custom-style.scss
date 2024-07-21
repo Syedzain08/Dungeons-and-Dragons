@@ -121,7 +121,7 @@ svg {
     }
 
     .toc-title-container {
-        background-color: #f0f0f0; /* Light background for the title */
+        background-color: #0d1117; /* Light background for the title */
         padding: 10px;
         cursor: pointer; /* Make it look clickable */
     }
@@ -129,8 +129,8 @@ svg {
     .toc-container {
         display: none; /* Hidden by default */
         padding: 10px;
-        background-color: #ffffff; /* White background */
-        border: 1px solid #e0e0e0; /* Light border */
+        background-color: #0d1117; 
+        border: 1px solid #61BAF5; /* Light border */
     }
 
     /* When active class is added, show the TOC content */
