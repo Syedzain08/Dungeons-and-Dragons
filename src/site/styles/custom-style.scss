@@ -16,6 +16,8 @@
     --callout-title-padding: 0;
     --callout-title-size: inherit;
     --callout-content-padding: 0;
+    --outline-color: #61BAF5;
+    --border-width: 10px;
 }
 
 body {
@@ -44,8 +46,8 @@ h4 {
 
 canvas, .graph-title, .backlinks, .toc {
     background-color: #0D1117 !important;
-    border-width: 3px !important;
-    border-color: #61BAF5 !important;
+    border-width: var(--border-width) !important;
+    border-color: var(--outline-color) !important;
 }
 
 .content {
