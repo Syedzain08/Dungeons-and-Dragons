@@ -101,8 +101,15 @@ svg {
   }
 }
 
-.backlink-icon {
-    font-size: 12px; /* Adjust the size as needed */
-    width: 10px; /* Adjust the width as needed */
-    height: 10px; /* Adjust the height as needed */
+// .backlink-icon {
+//     font-size: 12px; /* Adjust the size as needed */
+//     width: 10px; /* Adjust the width as needed */
+//     height: 10px; /* Adjust the height as needed */
+// }
+
+.backlink-card svg.lucide-link {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  margin-right: 4px; /* Adds some space between the icon and text */
 }
