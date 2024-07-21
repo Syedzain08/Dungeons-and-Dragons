@@ -43,9 +43,9 @@ h4 {
 }
 
 canvas, .graph-title, .backlinks, .toc {
-    background-color: #0D1117;
-    border-width: 3px;
-    border-color: #61BAF5;
+    background-color: #0D1117; !important;
+    border-width: 3px; !important;
+    border-color: #61BAF5; !important;
 }
 
 .content {
