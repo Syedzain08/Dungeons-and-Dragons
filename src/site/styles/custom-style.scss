@@ -113,3 +113,28 @@ svg {
   vertical-align: middle;
   margin-right: 4px; /* Adds some space between the icon and text */
 }
+@media screen and (max-width: 768px) {
+    .toc {
+        display: block; /* Ensure it's visible */
+        width: 100%; /* Full width on mobile */
+        margin-bottom: 20px; /* Add some space below */
+    }
+
+    .toc-title-container {
+        background-color: #f0f0f0; /* Light background for the title */
+        padding: 10px;
+        cursor: pointer; /* Make it look clickable */
+    }
+
+    .toc-container {
+        display: none; /* Hidden by default */
+        padding: 10px;
+        background-color: #ffffff; /* White background */
+        border: 1px solid #e0e0e0; /* Light border */
+    }
+
+    /* When active class is added, show the TOC content */
+    .toc.active .toc-container {
+        display: block;
+    }
+}
