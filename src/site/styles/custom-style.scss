@@ -42,8 +42,9 @@ h4 {
     color: #ffffff;
 }
 
-canvas {
+canvas, .graph-title, .backlinks, .toc {
     background-color: #0D1117;
+    border-width: 3px;
 }
 
 .content {
