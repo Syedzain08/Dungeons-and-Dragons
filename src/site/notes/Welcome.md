@@ -4,16 +4,24 @@
 
 # Welcome to the Campaign support website!
 
-# (Beta: 2.0)
+# (Launch! V1.0)
 
 ## What's New?
 
-- Over 36 articles have been added.
-- Everything has been updated except the things that are most heavily homebrewed such as [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]].
-- Security has been upgraded to prevent DDOS attacks.
+- Security has been further increased by a firewall which will authenticate users
+- A cool file graph has been added. On the side for desktop and on the bottom of the page for mobile users.
+- A backlink tab has also been added to tell you how many pages reference the current page.
+- A link preview system has also been added. Hover on a link on desktop to see it in action. Press and  hold the link on mobile
+- A table of contents tab has also been added on top.
+
+**I feel like i've added every functionality i wanted so this is the official launch of the site!!**
+## Interesting Things
+
 - Check out [[Lore/Dragon Of Icespire Peak/Homebrew/The Prophecy/The Prophecy\|The Prophecy]]
 - Who is [[Lore/Dragon Of Icespire Peak/Official/Characters/Elminster Aumar\|Elminster Aumar]]?
 - The ancient and powerful: [[Lore/Dragon Of Icespire Peak/Official/Kingdoms & Cities/The Netheril Empire\|The Netheril Empire]]
+- The  [[Lore/Dragon Of Icespire Peak/Official/Factions & Organisations/Zhentarim/Zhentarim\|Zhentarim]]
+- [[Lore/Dragon Of Icespire Peak/Official/Factions & Organisations/The Lord's Alliance/The Lord's Alliance\|The Lord's Alliance]]
 ## Introduction
 
 Hi! This is the site for the players of the campaign module "Dragon Of Icespire Peak" as run by Zain Ul Abideen. This site will give you Insight into the lore, worldbuilding, and storyline aspects of the campaign. This site will give you as much information as necessary to ensure a smooth gaming experience but, will only give you very broad knowledge. The details will be updated as you discover it. Some of this information will be readily available online or be in the official lore or module however, some of the lore may not be found anywhere else due to it being homebrew so, without further ado, let us embark on a quest of a lifetime!
