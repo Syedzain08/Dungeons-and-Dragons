@@ -1,0 +1,12 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const tocTitle = document.querySelector('.toc-title-container');
+    const toc = document.querySelector('.toc');
+
+    if (tocTitle && toc) {
+        tocTitle.addEventListener('click', function() {
+            toc.classList.toggle('active');
+        });
+    }
+});
+</script>
