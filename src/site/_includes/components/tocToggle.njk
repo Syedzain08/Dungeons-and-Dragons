@@ -1,10 +1,19 @@
+<script>
 document.addEventListener('DOMContentLoaded', function() {
     const tocTitle = document.querySelector('.toc-title-container');
     const tocContainer = document.querySelector('.toc-container');
     
     if (tocTitle && tocContainer) {
+        // Initially hide the TOC container
+        tocContainer.style.display = 'none';
+        
         tocTitle.addEventListener('click', function() {
-            tocContainer.style.display = tocContainer.style.display === 'none' ? 'block' : 'none';
+            if (tocContainer.style.display === 'none') {
+                tocContainer.style.display = 'block';
+            } else {
+                tocContainer.style.display = 'none';
+            }
         });
     }
 });
+</script>
