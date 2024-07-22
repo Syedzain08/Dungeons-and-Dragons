@@ -116,9 +116,9 @@ svg {
 /* Styles for both mobile and desktop */
 .toc {
     width: 100%;
-    max-width: 300px; /* Adjust as needed */
+    max-width: 300px;
     margin-bottom: 20px;
-    border: 1px solid #61BAF5;
+    border: 1px solid #61BAF5; /* Reduced border width */
     background-color: #0d1117;
 }
 
@@ -126,19 +126,26 @@ svg {
     background-color: #0d1117;
     padding: 10px;
     cursor: pointer;
+    border-bottom: 1px solid #61BAF5;
 }
 
 .toc-container {
+    display: none; /* Hidden by default */
     padding: 10px;
-    max-height: 300px; /* Adjust as needed */
+    max-height: 300px;
     overflow-y: auto;
     overflow-x: hidden;
+}
+
+/* Show TOC when active */
+.toc.active .toc-container {
+    display: block;
 }
 
 /* Scrollbar styles */
 .toc-container::-webkit-scrollbar {
     width: 6px;
-    height: 0; /* Hides horizontal scrollbar */
+    height: 0;
 }
 
 .toc-container::-webkit-scrollbar-thumb {
@@ -154,13 +161,13 @@ svg {
 /* Media query for mobile devices */
 @media screen and (max-width: 768px) {
     .toc {
-        /* Any specific mobile styles */
+        max-width: 100%; /* Full width on mobile */
     }
 }
 
 /* Media query for desktop */
 @media screen and (min-width: 769px) {
     .toc {
-        /* Any specific desktop styles */
+        /* Any specific desktop styles if needed */
     }
 }
