@@ -96,7 +96,7 @@ svg {
 
 .toc-title-container {
     background-color: #0d1117;
-    padding: 10px;
+    padding: 0px;
     cursor: pointer;
 }
 
@@ -146,7 +146,7 @@ svg {
     }
     .toc-title-container {
         background-color: #0d1117;
-        padding: 10px;
+        padding: 0px;
         cursor: pointer;
     }
     .toc-container {
@@ -159,4 +159,9 @@ svg {
         height: auto;
         max-height: none;
     }
+}
+
+.toc-title {
+    font-family: Roboto, sans-serif;
+    color: #ffffff;
 }
