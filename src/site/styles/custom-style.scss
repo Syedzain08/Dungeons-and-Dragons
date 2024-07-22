@@ -52,7 +52,7 @@ canvas, .graph-title, .graph-title-container, .force-graph-container, .backlinks
 
 .content {
     font-size: 14px !important;
-    color: var(--text-normal) !important; /* Adjusted text color for better readability */
+    color: var(--text-normal) !important;
 }
 
 .navbar {
@@ -76,17 +76,17 @@ canvas, .graph-title, .graph-title-container, .force-graph-container, .backlinks
 }
 
 ol li::marker {
-    color: #00bfff !important; /* Adjusted marker color */
+    color: #00bfff !important;
 }
 
 ol li a, a {
-    color: #00ffff !important; /* Adjusted link color */
+    color: #00ffff !important;
 }
 
 p {
-    color: #cccccc !important; /* Adjusted paragraph text color */
+    color: #cccccc !important;
 }
-/* img not scaling properly on mobile */
+
 svg {
   width: 100%;
   height: auto;
@@ -94,26 +94,14 @@ svg {
   display: block;
 }
 
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  [class*="col-"] {
-    width: 100%;
-  }
-}
-
-// .backlink-icon {
-//     font-size: 12px; /* Adjust the size as needed */
-//     width: 10px; /* Adjust the width as needed */
-//     height: 10px; /* Adjust the height as needed */
-// }
-
 .backlink-card svg.lucide-link {
   width: 16px;
   height: 16px;
   vertical-align: middle;
-  margin-right: 4px; /* Adds some space between the icon and text */
+  margin-right: 4px;
 }
 
+// New TOC styles
 .toc {
     width: 100%;
     margin-bottom: 20px;
@@ -126,25 +114,45 @@ svg {
 }
 
 .toc-container {
-    display: none;
     padding: 10px;
     background-color: #0d1117;
     border: 1px solid #61BAF5;
 }
 
-// Media query for mobile devices
 @media screen and (max-width: 768px) {
     .toc {
         display: block;
     }
 }
 
-/* ... (existing media queries and other styles) ... */
-
 @media only screen and (max-width: 768px) {
-  /* For mobile phones: */
   [class*="col-"] {
     width: 100%;
   }
+}
+
+@media screen and (min-width: 769px) {
+    .toc {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+        position: static;
+        overflow: visible;
+    }
+    .toc-title-container {
+        background-color: #0d1117;
+        padding: 10px;
+        cursor: pointer;
+    }
+    .toc-container {
+        padding: 10px;
+        background-color: #0d1117;
+        border: 1px solid #61BAF5;
+    }
+    .toc, .toc-container {
+        position: static;
+        height: auto;
+        max-height: none;
+    }
 }
 
