@@ -11,8 +11,8 @@
 - Security has been further increased by a firewall which will authenticate users
 - A cool file graph has been added. On the side for desktop and on the bottom of the page for mobile users.
 - A backlink tab has also been added to tell you how many pages reference the current page.
-- A link preview system has also been added. Hover on a link on desktop to see it in action. Press and  hold the link on mobile
-- A table of contents tab has also been added on top.
+- A link preview system has also been added. Hover on a link on desktop to see it in action. Press and  hold the link on mobile (It is clunky on mobile: Only recommended for desktop users)
+- A table of contents tab has also been added on top. Just click the table of contents heading.
 
 **I feel like i've added every functionality i wanted so this is the official launch of the site!!**
 ## Interesting Things
