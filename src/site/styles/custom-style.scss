@@ -132,27 +132,36 @@ svg {
 }
 
 @media screen and (min-width: 769px) {
-    .toc {
-        display: block;
-        width: 100%;
-        margin-bottom: 20px;
-        position: static;
-        overflow: visible;
-    }
-    .toc-title-container {
-        background-color: #0d1117;
-        padding: 10px;
-        cursor: pointer;
-    }
-    .toc-container {
-        padding: 10px;
-        background-color: #0d1117;
-        border: 1px solid #61BAF5;
-    }
-    .toc, .toc-container {
-        position: static;
-        height: auto;
-        max-height: none;
-    }
+.toc {
+    width: 100%;
+    margin-bottom: 20px;
+    overflow: hidden; // Hide any overflow
+}
+
+.toc-title-container {
+    background-color: #0d1117;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.toc-container {
+    padding: 10px;
+    background-color: #0d1117;
+    border: 1px solid #61BAF5;
+    max-height: 60vh; // Adjust this value as needed
+    overflow-y: auto;
+    scrollbar-width: none; // Firefox
+    -ms-overflow-style: none; // IE 10+
+}
+
+// Hide scrollbar for Chrome, Safari and Opera
+.toc-container::-webkit-scrollbar {
+    display: none;
+}
+
+// Ensure content is visible
+.toc-container > * {
+    margin-right: -17px; // Compensate for scrollbar width
+    padding-right: 17px; // Add padding to ensure text isn't cut off
 }
 
