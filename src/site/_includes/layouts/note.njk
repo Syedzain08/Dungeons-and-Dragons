@@ -21,11 +21,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {%else%}
       {%include "components/filetree.njk"%}
     {% endif %}
-
     {% if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
     {% endif %}
-
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
         {% if settings.dgShowInlineTitle === true %}
@@ -61,6 +59,11 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       </header>
+
+      {% if settings.dgShowToc === true %}
+        {% include "components/toc.njk" %}
+      {% endif %}
+
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
       {% endfor %}
@@ -75,11 +78,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
     </main>
-
-    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
-      {%include "components/sidebar.njk"%}
+    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true %}
+      {%include "components/sidebar.njk" %}
     {% endif %}
-
     {% if settings.dgLinkPreview === true %}
       {%include "components/linkPreview.njk"%}
     {% endif %}
