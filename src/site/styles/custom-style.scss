@@ -140,27 +140,42 @@ svg {
 }
 @media screen and (min-width: 769px) {
     .toc {
-        display: block;
         width: 100%;
+        max-width: 300px; /* Adjust this value as needed */
         margin-bottom: 20px;
-        position: static;
-        overflow: visible;
+        border: 1px solid #61BAF5;
+        background-color: #0d1117;
     }
     .toc-title-container {
         background-color: #0d1117;
         padding: 10px;
-        cursor: default; /* Remove pointer cursor on desktop */
+        cursor: pointer;
     }
     .toc-container {
-        display: block; /* Always visible on desktop */
+        display: none; /* Hidden by default */
         padding: 10px;
-        background-color: #0d1117;
-        border: 1px solid #61BAF5;
+        max-height: 300px; /* Adjust this value as needed */
+        overflow-y: auto;
+        overflow-x: hidden;
     }
-    /* Remove any fixed positioning or height constraints */
-    .toc, .toc-container {
-        position: static;
-        height: auto;
-        max-height: none;
+    /* When active class is added, show the TOC content */
+    .toc.active .toc-container {
+        display: block;
     }
+}
+
+
+.toc-container::-webkit-scrollbar {
+    width: 6px;
+    height: 0; /* This hides the horizontal scrollbar */
+}
+
+.toc-container::-webkit-scrollbar-thumb {
+    background-color: #61BAF5;
+    border-radius: 3px;
+}
+
+.toc-container {
+    scrollbar-width: thin;
+    scrollbar-color: #61BAF5 transparent;
 }
