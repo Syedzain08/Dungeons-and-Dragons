@@ -113,29 +113,38 @@ svg {
   vertical-align: middle;
   margin-right: 4px; /* Adds some space between the icon and text */
 }
-@media screen and (min-width: 769px) {
+
+.toc {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.toc-title-container {
+    background-color: #0d1117;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.toc-container {
+    display: none;
+    padding: 10px;
+    background-color: #0d1117;
+    border: 1px solid #61BAF5;
+}
+
+// Media query for mobile devices
+@media screen and (max-width: 768px) {
     .toc {
         display: block;
-        width: 100%;
-        margin-bottom: 20px;
-        position: static;
-        overflow: visible;
-    }
-    .toc-title-container {
-        background-color: #0d1117;
-        padding: 10px;
-        cursor: default; /* Remove pointer cursor on desktop */
-    }
-    .toc-container {
-        display: block; /* Always visible on desktop */
-        padding: 10px;
-        background-color: #0d1117;
-        border: 1px solid #61BAF5;
-    }
-    /* Remove any fixed positioning or height constraints */
-    .toc, .toc-container {
-        position: static;
-        height: auto;
-        max-height: none;
     }
 }
+
+/* ... (existing media queries and other styles) ... */
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
