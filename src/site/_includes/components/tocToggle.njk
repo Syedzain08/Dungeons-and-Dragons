@@ -1,12 +1,21 @@
-<script>
 document.addEventListener('DOMContentLoaded', function() {
     const tocTitle = document.querySelector('.toc-title-container');
     const toc = document.querySelector('.toc');
+    const tocContainer = document.querySelector('.toc-container');
     
-    if (tocTitle && toc) {
+    if (tocTitle && toc && tocContainer) {
+        // Initially hide the TOC container
+        tocContainer.style.display = 'none';
+        
         tocTitle.addEventListener('click', function() {
             toc.classList.toggle('active');
+            
+            // Toggle the display of the TOC container
+            if (tocContainer.style.display === 'none') {
+                tocContainer.style.display = 'block';
+            } else {
+                tocContainer.style.display = 'none';
+            }
         });
     }
 });
-</script>
