@@ -3,10 +3,11 @@
 :root {
     --background-primary: rgb(32, 31, 31);
     --background-secondary: rgb(57, 56, 56);
-    --text-normal: #dcddde;
+    --text-normal: #cccccc;
     --text-accent: rgb(97, 186, 245);
     --file-margins: 32px;
     --h1-color: #0099cc;
+    --h6-color: #ffffff;
     --callout-border-width: 0px;
     --callout-border-opacity: 0.25;
     --callout-padding: 12px 12px 12px 24px;
@@ -17,6 +18,7 @@
     --callout-content-padding: 0;
     --outline-color: #61BAF5;
     --border-width: 10px;
+    
 }
 
 body {
