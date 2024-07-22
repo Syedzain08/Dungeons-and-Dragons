@@ -25,9 +25,6 @@
       {% if settings.dgShowInlineTitle === true %}
         <h1>{{ noteTitle  }}</h1>
       {% endif %}
-      {% if settings.dgShowToc === true %}
-        {% include "components/toc.njk" %}
-      {% endif %}
       <div class="header-meta">
         {% if settings.dgShowTags === true and tags %}
           <div class="header-tags">
@@ -48,6 +45,11 @@
         {% include imp %}
       {% endfor %}
       </header>
+
+      {% if settings.dgShowToc === true %}
+        {% include "components/toc.njk" %}
+      {% endif %}
+      
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
       {% endfor %}
