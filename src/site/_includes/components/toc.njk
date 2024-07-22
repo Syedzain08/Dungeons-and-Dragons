@@ -1,7 +1,7 @@
 {%if settings.dgShowToc === true%}
   {%set tocHtml= (content and (content|toc)) %}
       {%if tocHtml %}
-            div class="toc">
+            <div class="toc">
             <div class="toc-title-container">
                   <div class="toc-title">
                       Table Of Contents
@@ -12,4 +12,4 @@
         </div>
       </div>
     {%endif%}
-{endif%}
+{%endif%}
