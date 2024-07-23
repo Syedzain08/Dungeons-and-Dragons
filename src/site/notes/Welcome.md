@@ -8,7 +8,7 @@
 
 ## What's New?
 
-- Security has been further increased by a firewall which will authenticate users
+- Security firewall has been turned off because of Mr. Arez Asif's complaint about it not loading on his device.
 - A cool file graph has been added. On the side for desktop and on the bottom of the page for mobile users.
 - A backlinks tab has also been added to tell you how many pages reference the current page.
 - A link preview system has also been added. Hover on a link on desktop to see it in action. Press and  hold the link on mobile (It is clunky on mobile: Only recommended for desktop users)
