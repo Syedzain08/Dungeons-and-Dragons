@@ -12,7 +12,7 @@ The heroes follow Dwalin’s directions and go to Barthen’s Provisions, The Ge
 
 They go to The Town Hall where, on the job board there are two quests left, Gnomengarde and Umbrage Hill. The characters choose Umbrage Hill and set off. Due to the incredible expertise of Will Buyers, they reach the hill in half a day’s walk. They find themselves face to face with a Manticore trying to knock down a windmill to eat its occupant which happens to be Adabra Gwynn, the one they are here to warn. They confront the Manticore and successfully kill it in a long arduous fight.
 
-After saving the day, they throw a rope up to Adabra and she repels down, explicitly stating not to peek, but our hero Lucifer Morningstar does anyway. Adabra also gave them a healing potion for their trouble.
+After saving the day, they throw a rope up to Adabra and she repels down. Adabra also gave them a healing potion for their trouble.
 
 After this, they tell her about the danger of the White Dragon’s presence and she refuses to believe it and says that she does not want to go to Phandalin because Harbin Wester has been pestering her to marry him. Lucifer, having had enough simply picks her up and walks away, coming back with the party to lock the doors of the windmill.
 

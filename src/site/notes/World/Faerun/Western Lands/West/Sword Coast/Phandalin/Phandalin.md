@@ -18,3 +18,5 @@ The gentle chime of a bell drifts from the Shrine of Luck. Inside, sunlight cast
 Townmaster Harbin Wester, a man of booming voice and pipe smoke, barks orders from his porch. His gaze sweeps the square, worry etched on his gruff face.
 
 Whispers weave through the bustle, like phantoms on the wind. Orcs in the Neverwinter Wood. A curse clinging to Wave Echo Cave. Reminders that danger lurks just beyond the town walls, a constant shadow over Phandalin's hope.
+
+**Travel or listen to rumors to learn more about this place!**
