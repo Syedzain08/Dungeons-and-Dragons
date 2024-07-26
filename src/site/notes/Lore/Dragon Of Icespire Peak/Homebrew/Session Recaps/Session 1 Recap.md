@@ -6,7 +6,7 @@
 
 Session 1
 
-Our intrepid heroes met each other at Phandalin and immediately found out about the white dragon, cryovain, who has settled in the sword mountains, driving out the orcs. Our heroes spent the first night at the stonehill inn.
+Our intrepid heroes met each other at [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] and immediately found out about the white dragon, [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|cryovain]], who has settled in the sword mountains, driving out the orcs. Our heroes spent the first night at the stonehill inn.
 
 After waking up, our heroes went to the town hall to get a quest, they received the said quest and departed immediately. They went to the dwarven excavation, on their way to the site, they stopped by a lake to cool off and take a swim, accidentally summoning the terror of the 12 seas, The Kraken.
 

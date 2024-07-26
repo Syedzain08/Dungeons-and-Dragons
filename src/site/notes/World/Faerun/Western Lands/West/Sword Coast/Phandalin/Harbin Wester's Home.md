@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/west/sword-coast/phandalin/harbin-wester-s-home/"}
 ---
 
+The dwelling place of Townmaster [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Harbin Wester\|Harbin Wester]]
 
-# Harbin Wester's Home
+**Travel or listen to rumors to learn more about this place!**
 
-Coming soon!
