@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/tayla-stonebreaker/"}
 ---
 
+![Tayla Stonebreaker.jpg](/img/user/Images/Characters/npcs/Stonehill%20Inn/Tayla%20Stonebreaker.jpg)
+
 A whirlwind in human form, Tayla Stonebreaker moves through the Stonehill Inn with the grace of a dancer and the energy of a summer storm. Her slender frame belies a strength born of years hefting trays and navigating crowded tavern floors. Standing at average height, Tayla nonetheless seems taller, her vibrant presence filling every corner of the room she occupies.
 
 Tayla's most striking feature is her shock of white hair, a familial trait shared with her twin. Often adorned with wildflowers or colorful ribbons, her tresses seem to have a life of their own, bouncing and swaying as she flits from table to table. Her eyes, a clear sky blue, sparkle with mischief and warmth, inviting confidences and inspiring trust in even the most guarded of patrons.

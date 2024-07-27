@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/ander-silkans/"}
 ---
 
+![Ander Silkans.jpg](/img/user/Images/Characters/npcs/Barthen's%20Provisions/Ander%20Silkans.jpg)
+
 Ander Silkans moves through [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]] with an ethereal grace that belies his centuries of experience. This tall, slender elf brings an air of timeless efficiency to the frontier store. Ander's most striking feature is his hair, which cascades down his back like spun gold, catching the light in mesmerizing ways as he works.
 
 His eyes are a marvel in themselves, shifting from deep forest green to warm amber depending on the light and his mood. These hues seem to dance as Ander's gaze flits from task to task, missing no detail in his quest for perfect order.

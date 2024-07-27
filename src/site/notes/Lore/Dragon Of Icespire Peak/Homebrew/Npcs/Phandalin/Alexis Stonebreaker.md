@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/alexis-stonebreaker/"}
 ---
 
+![Alexis Stonebreaker.jpg](/img/user/Images/Characters/npcs/Stonehill%20Inn/Alexis%20Stonebreaker.jpg)
+
 Where her sister is a gale, Alexis Stonebreaker is the calm at its center, moving through the [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Stonehill Inn\|Stonehill Inn]] with quiet purpose and understated grace. Of average height and slender build, Alexis nonetheless has a presence that commands attention, not through volume or motion, but through the intensity of her focused gaze and economical movements.
 
 Alexis shares her twin's striking white hair, though she wears hers in a neat, practical braid that hangs down her back. Occasionally, a few wisps escape to frame her face, softening her otherwise composed appearance. Her most arresting feature, however, are her eyes – a soft, ethereal pink that seems to shift in hue depending on the light and her mood. These unusual eyes observe the inn's goings-on with quiet intensity, missing little and revealing less.

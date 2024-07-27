@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/dwalin-ironhammer/"}
 ---
 
+![Dwalin Ironhammer.jpg](/img/user/Images/Characters/npcs/The%20Smithy/Dwalin%20Ironhammer.jpg)
+
 The rhythmic clang of hammer on anvil announces Dwalin Ironhammer's presence long before he comes into view. This stout dwarf is the beating heart of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s smithy, his powerful arms and expert craftsmanship keeping the frontier town well-equipped against the dangers of the wild.
 
 Dwalin stands barely over four feet tall, but his broad shoulders and barrel chest give him a presence that fills the smithy. His skin is the ruddy hue of forge-heated metal, weathered and scarred from years of working with flame and iron. A thick, braided beard of deep auburn cascades down his chest, occasionally singed at the edges and invariably containing a few metal shavings that glint in the firelight.
