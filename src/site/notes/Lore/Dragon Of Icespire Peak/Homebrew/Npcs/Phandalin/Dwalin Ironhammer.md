@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/dwalin-ironhammer/"}
 ---
 
-![Dwalin Ironhammer.jpg](/img/user/Images/Characters/npcs/The%20Smithy/Dwalin%20Ironhammer.jpg)
+![Dwalin Ironhammer.jpg](/img/user/Images/Characters/npcs/Phandalin/The%20Smithy/Dwalin%20Ironhammer.jpg)
 
 The rhythmic clang of hammer on anvil announces Dwalin Ironhammer's presence long before he comes into view. This stout dwarf is the beating heart of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s smithy, his powerful arms and expert craftsmanship keeping the frontier town well-equipped against the dangers of the wild.
 

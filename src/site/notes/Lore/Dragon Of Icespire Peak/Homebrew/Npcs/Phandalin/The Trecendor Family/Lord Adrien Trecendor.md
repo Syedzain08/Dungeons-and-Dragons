@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/the-trecendor-family/lord-adrien-trecendor/"}
 ---
 
-![Lord Adrien Trecendor.jpg](/img/user/Images/Characters/npcs/Trecendor%20Family/Lord%20Adrien%20Trecendor.jpg)
+![Lord Adrien Trecendor.jpg](/img/user/Images/Characters/npcs/Phandalin/Trecendor%20Family/Lord%20Adrien%20Trecendor.jpg)
 
 The patriarch of the family, Lord Adrien Trecendor, is a man whose very presence commands attention. Tall and lean, with salt-and-pepper hair swept back from a high forehead, Adrien carries himself with the easy grace of nobility. His steel-gray eyes, sharp and calculating, seem to assess the value of everything and everyone they fall upon.
 

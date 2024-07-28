@@ -4,6 +4,7 @@
 
 The Netheril Empire, one of the most legendary and powerful civilizations in the history of [[World/Faerun/Faerun\|Faerun]], was a magical empire that thrived from approximately -3859 DR to 339 DR. Renowned for its unparalleled mastery of magic, Netheril's influence and achievements continue to shape the world long after its fall.
 
+![Netheril City.jpg](/img/user/Images/Locations/Netheril%20City.jpg)
 ## Rise of Netheril
 
 Netheril began as a small collection of fishing villages along the Narrow Sea. The discovery of the Nether Scrolls, ancient artifacts of immense magical knowledge, transformed these humble settlements into a beacon of magical advancement. Under the guidance of powerful archmages, the empire expanded rapidly, its influence spreading across the lands.

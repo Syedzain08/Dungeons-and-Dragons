@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/lyra-oakenbough/"}
 ---
 
-![Lyra Oakenbough.jpg](/img/user/Images/Characters/npcs/Adventurer's%20Guild/Lyra%20Oakenbough.jpg)
+![Lyra Oakenbough.jpg](/img/user/Images/Characters/npcs/Phandalin/Adventurer's%20Guild/Lyra%20Oakenbough.jpg)
 
 Lyra's muscular frame speaks of a life spent shaping wood and stone, while her silver- hair is often tied back in a practical bun. Lyra's red eyes hold a spark of creativity, seeing potential masterpieces in every block of wood or stone.
 

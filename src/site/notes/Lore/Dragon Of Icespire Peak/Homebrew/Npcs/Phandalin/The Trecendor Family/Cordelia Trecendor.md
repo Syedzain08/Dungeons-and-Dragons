@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/the-trecendor-family/cordelia-trecendor/"}
 ---
 
-![Cordelia Trecendor.jpg](/img/user/Images/Characters/npcs/Trecendor%20Family/Cordelia%20Trecendor.jpg)
+![Cordelia Trecendor.jpg](/img/user/Images/Characters/npcs/Phandalin/Trecendor%20Family/Cordelia%20Trecendor.jpg)
 
 The youngest of the Trecendor clan, Cordelia is a whirlwind of energy and mischief. At twelve years old, she embodies the spirit of adventure that brought her family to the frontier. Her unruly mop of dark curls and bright, curious eyes make her a familiar and beloved sight around Phandalin.
 

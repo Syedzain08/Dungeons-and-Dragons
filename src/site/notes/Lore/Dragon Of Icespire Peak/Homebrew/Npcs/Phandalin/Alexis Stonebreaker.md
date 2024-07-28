@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/alexis-stonebreaker/"}
 ---
 
-![Alexis Stonebreaker.jpg](/img/user/Images/Characters/npcs/Stonehill%20Inn/Alexis%20Stonebreaker.jpg)
+![Alexis Stonebreaker.jpg](/img/user/Images/Characters/npcs/Phandalin/Stonehill%20Inn/Alexis%20Stonebreaker.jpg)
 
 Where her sister is a gale, Alexis Stonebreaker is the calm at its center, moving through the [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Stonehill Inn\|Stonehill Inn]] with quiet purpose and understated grace. Of average height and slender build, Alexis nonetheless has a presence that commands attention, not through volume or motion, but through the intensity of her focused gaze and economical movements.
 

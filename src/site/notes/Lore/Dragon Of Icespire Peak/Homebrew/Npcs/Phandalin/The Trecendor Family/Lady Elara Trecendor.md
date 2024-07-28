@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/the-trecendor-family/lady-elara-trecendor/"}
 ---
 
-![Lady Elara Trecendor.jpg](/img/user/Images/Characters/npcs/Trecendor%20Family/Lady%20Elara%20Trecendor.jpg)
+![Lady Elara Trecendor.jpg](/img/user/Images/Characters/npcs/Phandalin/Trecendor%20Family/Lady%20Elara%20Trecendor.jpg)
 
 Where Adrien is all sharp edges and ambition, his wife Elara is warmth and diplomacy personified. A half-elf of surpassing beauty, Elara's ageless features are framed by flowing auburn hair often adorned with simple yet elegant jewels. Her eyes, a mesmerizing mix of gold and green, seem to hold secrets of both elven forests and human cities.
 

@@ -4,6 +4,8 @@
 
 Myth Drannor, originally known as Cormanthor, is one of the most storied and legendary cities in the history of [[World/Faerun/Faerun\|Faerun]]. It is renowned for its grandeur, its contributions to magic and culture, and its tragic downfall. This elven city epitomized the height of elven civilization and the ideals of cooperation among the races.
 
+![Myth Drannor.jpg](/img/user/Images/Locations/Myth%20Drannor.jpg)
+
 ## The Founding and Early History
 
 - **Founding:** Myth Drannor was established within the forest of Cormanthor. The forest itself has long been a significant and mystical location, home to many elven settlements. The city of Myth Drannor was founded around -3983 DR by the Elven Court and became a beacon of elven culture and magic.

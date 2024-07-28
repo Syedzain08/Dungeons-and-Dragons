@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/adabra-gwynn/"}
 ---
 
-![Adabra Gwynn.jpg](/img/user/Images/Characters/npcs/Adabra%20Gwynn.jpg)
+![Adabra Gwynn.jpg](/img/user/Images/Characters/npcs/Phandalin/Adabra%20Gwynn.jpg)
 
 Adabra Gwynn stands as a enigmatic figure in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], her youth belying the ancient power that seems to pulse around her. This young woman, barely into her twenties, exudes an aura of arcane knowledge that sets her apart from her peers. Her face, smooth and unlined, is framed by a wild mane of stark white hair that seems to move of its own accord, occasionally sparking with tiny motes of magical energy.
 

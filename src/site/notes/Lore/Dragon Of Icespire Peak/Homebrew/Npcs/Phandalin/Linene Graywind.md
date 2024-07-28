@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/linene-graywind/"}
 ---
 
-Linene Graywind stands as straight and proud as the weapons she sells, her bearing that of a warrior queen overseeing her armory. Her long black hair, streaked with silver, is usually bound in a severe braid that accentuates her sharp cheekbones and penetrating gaze.
+![Linene Graywind.jpg](/img/user/Images/Characters/npcs/Phandalin/Lionshield%20Coster/Linene%20Graywind.jpg)
+
+Linene Graywind stands as straight and proud as the weapons she sells, her bearing that of a warrior queen overseeing her armory. Her long brown hair, is usually bound in a severe braid that accentuates her sharp cheekbones and penetrating gaze.
 
 Spectacles perch on her aquiline nose, flashing like polished shields as she assesses each customer. Her voice, cultured and precise, can cut through the din of the shop or soften to a conspiratorial whisper when discussing the finer points of weaponry.
 

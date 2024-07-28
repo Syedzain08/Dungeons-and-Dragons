@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/tayla-stonebreaker/"}
 ---
 
-![Tayla Stonebreaker.jpg](/img/user/Images/Characters/npcs/Stonehill%20Inn/Tayla%20Stonebreaker.jpg)
+![Tayla Stonebreaker.jpg](/img/user/Images/Characters/npcs/Phandalin/Stonehill%20Inn/Tayla%20Stonebreaker.jpg)
 
 A whirlwind in human form, Tayla Stonebreaker moves through the Stonehill Inn with the grace of a dancer and the energy of a summer storm. Her slender frame belies a strength born of years hefting trays and navigating crowded tavern floors. Standing at average height, Tayla nonetheless seems taller, her vibrant presence filling every corner of the room she occupies.
 

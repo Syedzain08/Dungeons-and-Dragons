@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/martha-stonehill/"}
 ---
 
+![Martha Stonehill.webp](/img/user/Images/Characters/npcs/Phandalin/Stonehill%20Inn/Martha%20Stonehill.webp)
+
 The aroma of Martha Stonehill's cooking precedes her, a siren call to hungry travelers that wafts through the inn's common room and out into the streets of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. Martha herself is a formidable presence, her robust frame speaking of a life spent nurturing others and wrestling stubborn cookpots into submission. Standing a head taller than most patrons, with shoulders broadened by years of kneading dough and hauling water, Martha cuts an imposing figure as she emerges from her kitchen domain.
 
 Her face, round and flushed from the heat of the ovens, is a map of a life well-lived. Laugh lines crinkle around her eyes and mouth, deep furrows that speak of a woman quick to smile despite the daily trials of running an inn. Her eyes, a warm chestnut brown, possess a keen sharpness that misses little, from a patron's empty mug to a homesick traveler in need of comfort food.

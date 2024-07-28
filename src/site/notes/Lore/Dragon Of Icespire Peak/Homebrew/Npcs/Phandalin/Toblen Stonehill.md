@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/toblen-stonehill/"}
 ---
 
+![Toblen Stonehill.jpg](/img/user/Images/Characters/npcs/Phandalin/Stonehill%20Inn/Toblen%20Stonehill.jpg)
+
 Toblen Stonehill, a man whose stature belies his oversized presence in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s daily life. Standing barely over five feet, Toblen's compact frame speaks of a life spent navigating the tight spaces behind a busy bar. His blonde hair, peppered with gray at the temples, is often slightly mussed, as if he's just run his fingers through it in contemplation of his next brew.
 
 Toblen's eyes, a warm brown that crinkle at the corners, seem to twinkle with the reflection of a thousand hearth fires. His gentle smile, quick to appear and slow to fade, has soothed many a troubled soul. When he speaks, his voice resonates with a depth that surprises many, carrying the warmth of fresh-baked bread and the comfort of a well-worn armchair. A slight country twang colors his words, a remnant of a youth spent in the rolling hills beyond [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s borders.

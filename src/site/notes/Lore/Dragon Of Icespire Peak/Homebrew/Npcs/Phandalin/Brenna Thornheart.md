@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/brenna-thornheart/"}
 ---
 
-![Brenna Thornheart.jpg](/img/user/Images/Characters/npcs/Adventurer's%20Guild/Brenna%20Thornheart.jpg)
+![Brenna Thornheart.jpg](/img/user/Images/Characters/npcs/Phandalin/Adventurer's%20Guild/Brenna%20Thornheart.jpg)
 
 Brenna has warm brown eyes sparkle with an innate connection to growing things, and her curly auburn hair seems perpetually adorned with leaves or flower petals. Brenna's hands, calloused from work in her gardens, move with surprising delicacy as she measures out herbal remedies or assists with guild administration.
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/bucky-boathook/"}
 ---
 
-![Bucky Boathook.jpg](/img/user/Images/Characters/npcs/Stonehill%20Inn/Bucky%20Boathook.jpg)
+![Bucky Boathook.jpg](/img/user/Images/Characters/npcs/Phandalin/Stonehill%20Inn/Bucky%20Boathook.jpg)
 
 A splash of exotic color in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s earthy palette, Bucky Boathook stands out like a tropical bird amidst sparrows. Of middling height but wiry build, Bucky moves with the rolling gait of a lifelong sailor, even on the solid ground of the [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Stonehill Inn\|Stonehill Inn]]. His weathered skin, tanned to leather by sun and salt, is a canvas of stories – scars from unknown adventures, laugh lines as deep as harbor channels, and a collection of tattoos that peek out from beneath his colorful garb.
 

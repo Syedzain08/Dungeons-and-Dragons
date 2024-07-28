@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/sister-garaele/"}
 ---
 
+![Sister Garaele.jpg](/img/user/Images/Characters/npcs/Phandalin/Shrine%20Of%20Luck/Sister%20Garaele.jpg)
+
 Enigmatic as the goddess she serves, Sister Garaele seems to float rather than walk through [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. Her elven features, timeless and serene, are framed by silver-blonde hair that cascades down her back like a moonlit waterfall. Her eyes, a deep and shifting blue, seem to look beyond the physical world.
 
 Sister Garaele's robes, a soft gray embroidered with subtle symbols of Tymora, whisper as she moves. Her slender hands often cradle a string of prayer beads, fingers moving in rhythmic patterns as she contemplates the mysteries of fate.

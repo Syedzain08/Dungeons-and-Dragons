@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/thaelar-moonwhisper/"}
 ---
 
+![Thaelar Moonwhisper.jpg](/img/user/Images/Characters/npcs/Phandalin/Adventurer's%20Guild/Thaelar%20Moonwhisper.jpg)
+
 Thaelar has a  wizened face, etched with the lines of countless centuries, is dominated by eyes that seem to pierce through any facade. One eye, a deep forest green, twinkles with wisdom and mirth. The other, a swirling opalescent orb, is said to see through even the rarest of illusions.
 
 Thaelar's slender frame is draped in robes of midnight blue, adorned with silver runes that shimmer in the candlelight. His long, silver hair is meticulously braided, cascading down his back like a moonlit waterfall. Wire-rimmed spectacles perch perpetually on the end of his aquiline nose, pushed up with a gnarled finger as he pores over guild documents.

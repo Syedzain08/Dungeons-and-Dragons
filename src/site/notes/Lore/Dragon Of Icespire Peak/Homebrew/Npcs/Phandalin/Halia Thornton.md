@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/halia-thornton/"}
 ---
 
-![Halia Thornton.jpg](/img/user/Images/Characters/npcs/Miner's%20Exchange/Halia%20Thornton.jpg)
+![Halia Thornton.jpg](/img/user/Images/Characters/npcs/Phandalin/Miner's%20Exchange/Halia%20Thornton.jpg)
 
 Cool and collected as the ore she trades, Halia Thornton is a study in controlled power. Her face, all sharp angles and high cheekbones, rarely betrays emotion beyond a carefully cultivated pleasant neutrality. Her eyes, a steely gray, miss nothing, cataloguing every detail of her surroundings with ruthless efficiency.
 

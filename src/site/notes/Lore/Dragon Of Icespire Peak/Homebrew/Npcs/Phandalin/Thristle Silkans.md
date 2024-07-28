@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/thristle-silkans/"}
 ---
 
-![Thristle Silkans.jpg](/img/user/Images/Characters/npcs/Barthen's%20Provisions/Thristle%20Silkans.jpg)
+![Thristle Silkans.jpg](/img/user/Images/Characters/npcs/Phandalin/Barthen's%20Provisions/Thristle%20Silkans.jpg)
 
 Thristle Silkans brings a vibrant energy to [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]] that perfectly complements his twin's serene efficiency. More compact than Ander but no less graceful, Thristle moves through the store with a buoyant enthusiasm that seems to lift the spirits of all around him.
 
