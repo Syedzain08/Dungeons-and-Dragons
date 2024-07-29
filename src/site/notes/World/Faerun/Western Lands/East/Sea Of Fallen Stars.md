@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/east/sea-of-fallen-stars/"}
 ---
 
+![Sea Of Fallen Stars.jpg](/img/user/Images/Locations/East/Sea%20Of%20Fallen%20Stars.jpg)
+
 The Sea of Fallen Stars, the largest inland body of water in [[World/Faerun/Faerun\|Faerun]], earns its name from a truly breathtaking phenomenon. Unlike any other ocean, its depths teem with bioluminescent plankton. At night, the surface transforms into a mesmerizing spectacle, mimicking a fallen starry sky reflected on the water. This otherworldly glow not only creates a captivating vista but also serves as a natural light source for creatures dwelling in the abyss.
 
 **A Geological Record of Lost Civilizations:**

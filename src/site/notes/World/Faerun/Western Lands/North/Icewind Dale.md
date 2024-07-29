@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/north/icewind-dale/"}
 ---
 
-Icewind Dale is a frigid and remote region located in the northernmost reaches of [[Faeun\|Faeun]], known for its harsh climate, rugged landscapes, and the resilience of its inhabitants.
+Icewind Dale is a frigid and remote region located in the northernmost reaches of [[World/Faerun/Faerun\|Faerun]], known for its harsh climate, rugged landscapes, and the resilience of its inhabitants.
 
+![Icewind Dale.jpg](/img/user/Images/Locations/Icewind%20Dale.jpg)
 ## Geography and Climate
 
 - **Frozen Wilderness:** Icewind Dale is characterized by its icy tundra, snow-capped mountains, and frozen lakes. The landscape is dominated by glaciers and jagged peaks, creating a formidable and unforgiving terrain.

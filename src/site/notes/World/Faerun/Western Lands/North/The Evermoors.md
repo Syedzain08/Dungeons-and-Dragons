@@ -4,6 +4,7 @@
 
 The Evermoors are a vast and forbidding expanse of moors, bogs, and mist-shrouded hills located in the northern reaches of [[World/Faerun/Faerun\|Faerun]]. This desolate and treacherous region presents a daunting challenge to travelers and adventurers alike, with its harsh terrain and eerie atmosphere.
 
+![Evermoore.jpg](/img/user/Images/Locations/Evermoore.jpg)
 ## Geography and Climate
 
 - **Marshy Wilderness:** The Evermoors consist of expansive marshlands, dense bogs, and rolling hills covered in thick fog and mist. The terrain is difficult to navigate, with treacherous footing and hidden hazards lurking beneath the murky waters.

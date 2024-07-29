@@ -4,11 +4,11 @@
 
 **SESSION 3: RECAP**
 
-Our intrepid Heroes find themselves at the [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Stonehill Inn\|Stonehill Inn]] once again. They decide to explore [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] and so they head to The Smithy first thing in the morning. There they meet a Dwarf Blacksmith by the name of [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Dwalin Ironhammer\|Dwalin]]. They ask about the prices and then leave.
+Our intrepid Heroes find themselves at the [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Stonehill Inn\|Stonehill Inn]] once again. They decide to explore [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] and so they head to The Smithy first thing in the morning. There they meet a Dwarf Blacksmith by the name of [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/The Smithy/Dwalin Ironhammer\|Dwalin]]. They ask about the prices and then leave.
 
 before they can get there a distraught person stops them saying that he needs to sell off his horses to pay his taxes and living expenses. The heroes refuse and he ends up selling the horses to the local Knights.
 
-The heroes follow Dwalin’s directions and go to [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]], The General Store. There they meet the elderly owner Elmar Barthen and his spritely, full-of-energy employees [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Thristle Silkans\|Thristle]] and [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Ander Silkans\|Ander Silkans]]. The group becomes quite _enchanted_ by their words and buys items at ridiculous prices.
+The heroes follow Dwalin’s directions and go to [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]], The General Store. There they meet the elderly owner Elmar Barthen and his spritely, full-of-energy employees [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Thristle Silkans\|Thristle]] and [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Ander Silkans\|Ander Silkans]]. The group becomes quite _enchanted_ by their words and buys items at ridiculous prices.
 
 They go to The Town Hall where, on the job board there are two quests left, Gnomengarde and Umbrage Hill. The characters choose Umbrage Hill and set off. Due to the incredible expertise of Will Buyers, they reach the hill in half a day’s walk. They find themselves face to face with a Manticore trying to knock down a windmill to eat its occupant which happens to be [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra Gwynn]], the one they are here to warn. They confront the Manticore and successfully kill it in a long arduous fight.
 
@@ -26,7 +26,7 @@ They split up and went to [[Harbin Wetser\|Harbin Wetser]] to collect their priz
 
 Meanwhile, the two members of our party that were with [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]] took her to the shrine of luck, Where they found out about the war between The Black Network and The lord’s Alliance. They decided to go to the [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Lionshield Coster\|Lionshield Coster]] and coincidently they met their other party members there.
 
-Now regrouped, they went inside, where [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Linene Graywind\|Linene Graywind]] greeted them. She was rather curt and blunt in her words. The characters also meet [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Kristen Blooms\|Kristen Blooms]], the young girl working as an assistant of Linene, clumsy but hard-working.
+Now regrouped, they went inside, where [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Lionshield Coster/Linene Graywind\|Linene Graywind]] greeted them. She was rather curt and blunt in her words. The characters also meet [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Lionshield Coster/Kristen Blooms\|Kristen Blooms]], the young girl working as an assistant of Linene, clumsy but hard-working.
 
 After a few minor purchases, The Heroes are on their way.
 

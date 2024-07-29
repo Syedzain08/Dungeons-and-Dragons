@@ -4,6 +4,7 @@
 
 Baldur's Gate is a bustling metropolis and one of the most influential city-states along the [[World/Faerun/Western Lands/West/Sword Coast/Sword Coast\|Sword Coast]] of [[World/Faerun/Faerun\|Faerun]]. Known for its bustling harbor, diverse population, and rich history, Baldur's Gate is a hub of trade, politics, and adventure.
 
+![Baldur's Gate-map.jpg](/img/user/Images/Maps/Baldur's%20Gate-map.jpg)
 ## Geography and Layout
 
 - **Coastal Location:** Situated along the western shores of [[World/Faerun/Faerun\|Faerun]], Baldur's Gate benefits from its strategic position as a gateway between the [[World/Faerun/Western Lands/West/Sword Coast/Sword Coast\|Sword Coast]] and the lands to the east. Its harbor is a vital nexus for maritime trade and commerce.

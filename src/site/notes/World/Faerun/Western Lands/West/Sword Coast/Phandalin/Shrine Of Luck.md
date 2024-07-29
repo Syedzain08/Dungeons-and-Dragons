@@ -12,6 +12,6 @@ On the right side, a few well-worn benches offer a place for weary travelers to 
 
 A faint scent of parchment and dried herbs hangs in the air, hinting at the scholarly pursuits of the shrine's caretaker. While the building itself may be small, the atmosphere within radiates a sense of peace and quiet solace, a welcome respite for those seeking a moment of calm amidst the chaos of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]].
 
-but, the acolyte that resides there, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Sister Garaele\|Sister Garaele]], is out of town at the moment and it is not open.
+but, the acolyte that resides there, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Shrine Of Luck/Sister Garaele\|Sister Garaele]], is out of town at the moment and it is not open.
 
 **Travel or listen to rumors to learn more about this place!**

@@ -4,6 +4,7 @@
 
 Anauroch, once a fertile heartland of the ancient [[Lore/Dragon Of Icespire Peak/Official/Kingdoms & Cities/The Netheril Empire\|The Netheril Empire]], now stands as a vast and desolate desert in the northern reaches of Faerûn. This expansive region, known as the Great Desert, bears witness to millennia of history, magic, and mystery.
 
+![Anauroch.jpg](/img/user/Images/Locations/Heartlands/Anauroch.jpg)
 ## Historical Legacy
 
 - **[[Lore/Dragon Of Icespire Peak/Official/Kingdoms & Cities/The Netheril Empire\|The Netheril Empire]]:** Anauroch was the heartland of the ancient Netherese Empire, where majestic floating cities like Netheril and Ascore once soared above the plains. These cities were centers of magical innovation and power, showcasing the Netherese mastery of arcane arts.

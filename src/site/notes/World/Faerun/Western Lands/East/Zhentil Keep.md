@@ -4,6 +4,7 @@
 
 Zhentil Keep, once a powerful city-state and stronghold of the [[Lore/Dragon Of Icespire Peak/Official/Factions & Organisations/Zhentarim/Zhentarim\|Zhentarim]], is now a shadow of its former glory, a dark and brooding reminder of ambition and treachery in [[World/Faerun/Faerun\|Faerun]].
 
+![Zhentil Keep.jpg](/img/user/Images/Locations/East/Zhentil%20Keep.jpg)
 ## History and Rise to Power
 
 - **Foundation:** Zhentil Keep was founded centuries ago as a fortified settlement strategically located along the Trade Way, a major trade route connecting the northern and southern regions of [[World/Faerun/Faerun\|Faerun]].

@@ -4,7 +4,7 @@
 
 ![Adabra Gwynn.jpg](/img/user/Images/Characters/npcs/Phandalin/Adabra%20Gwynn.jpg)
 
-Adabra Gwynn stands as a enigmatic figure in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], her youth belying the ancient power that seems to pulse around her. This young woman, barely into her twenties, exudes an aura of arcane knowledge that sets her apart from her peers. Her face, smooth and unlined, is framed by a wild mane of stark white hair that seems to move of its own accord, occasionally sparking with tiny motes of magical energy.
+Adabra Gwynn stands as a enigmatic figure in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], her youth belying the ancient power that seems to pulse around her. This young woman, barely into her twenties, exudes an aura of arcane knowledge that sets her apart from her peers. Her face, smooth and unlined, is framed by a wild mane of auburn hair that seems to move of its own accord, occasionally sparking with tiny motes of magical energy.
 
 Her eyes, a startling violet, burn with an inner fire that speaks of knowledge beyond her years. These eyes scrutinize the world with a mixture of intense curiosity and wary caution, often squinting as she leans in uncomfortably close to examine people or objects, heedless of social norms.
 
