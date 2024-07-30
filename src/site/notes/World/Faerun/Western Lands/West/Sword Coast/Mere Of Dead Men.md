@@ -6,6 +6,8 @@ The Mere of Dead Men, also known simply as the Mere, is a vast and eerie swamp l
 
 ## Geography and Landscape
 
+![Mere Of Dead Men.jpg](/img/user/Images/Locations/West/Sword%20Coast/Mere%20Of%20Dead%20Men.jpg)
+
 - **Swampy Terrain:** The Mere of Dead Men stretches along the coastline, its boundaries marked by brackish waters, dense fog, and thick vegetation. The terrain is a mix of deep marshes, stagnant pools, and treacherous bogs, making navigation difficult and dangerous.
 
 - **Misty Atmosphere:** The swamp is perpetually cloaked in mist, limiting visibility and adding to its foreboding ambiance. The thick fog creates an eerie silence, broken only by the sounds of unseen creatures and the occasional splash of water.

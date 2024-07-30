@@ -3,9 +3,9 @@
 ---
 
 Luskan, known as the City of Sails, is a bustling and notorious port city located along the Sword Coast in the northern region of [[World/Faerun/Faerun\|Faerun]]. Renowned for its maritime prowess, mercenary bands, and intrigue, Luskan is a city where ambition and treachery shape its tumultuous history.
-
-![Luskan.jpg](/img/user/Images/Locations/Luskan.jpg)
 ## Geography and Layout
+
+![Luskan.jpg](/img/user/Images/Locations/North/Luskan.jpg)
 
 - **Coastal Location:** Luskan is situated on the northern shores of the Sword Coast, overlooking the Sea of Swords. Its strategic location makes it a crucial hub for trade, piracy, and naval activity.
   

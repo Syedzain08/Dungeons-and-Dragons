@@ -3,8 +3,9 @@
 ---
 
 The Starmetal Hills are a rugged and remote region in [[World/Faerun/Faerun\|Faerun]], renowned for their rich deposits of starmetal, a rare and highly prized metal known for its magical properties and exceptional strength. These hills are both a place of natural beauty and a hotspot for adventurers and miners seeking fortune and fame.
-
 ## Geography and Landscape
+
+![Starmetal Hills.jpg](/img/user/Images/Locations/West/Sword%20Coast/Starmetal%20Hills.jpg)
 
 - **Hilly Terrain:** The Starmetal Hills are characterized by their rolling, rugged landscape. The terrain is a mix of rocky outcrops, grassy slopes, and dense clusters of hardy trees and shrubs.
 

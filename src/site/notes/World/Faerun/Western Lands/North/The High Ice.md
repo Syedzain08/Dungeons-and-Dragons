@@ -3,9 +3,9 @@
 ---
 
 The High Ice, also known as the Reghed Glacier, is a vast and treacherous expanse of ice and snow located in the far north of [[World/Faerun/Faerun\|Faerun]]. This frozen wilderness is renowned for its extreme cold, towering ice formations, and the formidable creatures that roam its icy plains.
-
-![The High Ice.jpg](/img/user/Images/Locations/The%20High%20Ice.jpg)
 ## Geography and Climate
+
+![The High Ice.jpg](/img/user/Images/Locations/North/The%20High%20Ice.jpg)
 
 - **Frozen Expanse:** The High Ice spans hundreds of miles of icy tundra, punctuated by towering glaciers and jagged ice cliffs. The terrain is rugged and inhospitable, with few signs of life beyond the hardiest of creatures.
   

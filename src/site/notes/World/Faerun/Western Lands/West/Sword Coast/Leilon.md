@@ -3,8 +3,9 @@
 ---
 
 Leilon is a small, yet strategically significant town located on the western coast of [[World/Faerun/Faerun\|Faerun]], nestled between the bustling cities of [[World/Faerun/Western Lands/West/Sword Coast/Neverwinter/Neverwinter\|Neverwinter]] to the north and [[World/Faerun/Western Lands/West/Waterdeep\|Waterdeep]] to the south. Though often overshadowed by its larger neighbors, Leilon has a rich history and a vital role as a trade and travel waypoint along the High Road.
-
 ## Geography and Layout
+
+![Leilon.jpg](/img/user/Images/Locations/West/Sword%20Coast/Leilon.jpg)
 
 - **Coastal Town:** Leilon sits on the coast of the Sea of Swords, providing it with a natural harbor that has facilitated trade and fishing for centuries. Its location between [[World/Faerun/Western Lands/West/Sword Coast/Neverwinter/Neverwinter\|Neverwinter]] and [[World/Faerun/Western Lands/West/Waterdeep\|Waterdeep]] makes it an essential stop for merchants and travelers.
 

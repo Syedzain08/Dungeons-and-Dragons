@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/cormyr/suzail/percia-elara-ravencrest/"}
 ---
 
-![[Percia Elara Ravencrest.jpg\|Percia Elara Ravencrest.jpg]]
+![Percia Elara Ravencrest.jpg](/img/user/Images/Characters/npcs/Cormyr/Suzail/Percia%20Elara%20Ravencrest.jpg)
 
 In the grand halls of the royal palace, where whispers carry secrets and every glance holds meaning, one figure stands apart. Percia, a name that sends shivers down the spines of courtiers and petitioners alike, is the immovable pillar beside the Queen-regent's throne.
 

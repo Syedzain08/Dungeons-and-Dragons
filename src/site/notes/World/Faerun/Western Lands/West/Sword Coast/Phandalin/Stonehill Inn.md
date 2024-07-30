@@ -2,7 +2,17 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/west/sword-coast/phandalin/stonehill-inn/"}
 ---
 
-# Stonehill inn
+A haven of warmth and comfort, the Stonehill Inn stands as a steadfast beacon amidst [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s rugged terrain. Its weathered sign creaks a welcoming melody in the breeze, promising respite for weary travelers and a familiar embrace for locals.
+## Key Figures
+
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Martha Stonehill\|Martha Stonehill]]:** The inn's life and soul, her hearty laughter and warm smile as comforting as the crackling hearth.
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Toblen Stonehill\|Toblen Stonehill]]:** The patriarch of the inn, whose booming voice and endless supply of stories make the bar the heart of the inn.
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Bucky Boathook\|Bucky Boathook]]:** A salty old sea dog, forever spinning yarns that transport listeners to distant shores.
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Tayla Stonebreaker\|Tayla Stonebreaker]]:** The inn's energetic and welcoming front-of-house waitress.
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Alexis Stonebreaker\|Alexis Stonebreaker]]:** The inn's meticulous and efficient back-of-house manager.
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Malukha\|Malukha]]:** A mysterious elven bard, whose haunting melodies weave magic into the inn's atmosphere.
+
+## Layout and Atmosphere
 
 The interior map (Day):
 
@@ -16,14 +26,17 @@ The interior (Night):
 
 ![2.jpg](/img/user/Images/DungeonDraft/Stonehill%20Inn/2.jpg)
 
-The Stonehill Inn stands as a beacon of warmth and hospitality amidst the rugged landscape of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. Its weathered sign creaks gently in the breeze, inviting weary travelers and locals alike to step inside and leave their troubles at the door.
+The inn's common room is a patchwork quilt of comfort, with worn wooden beams and mismatched furniture creating a lived-in charm. The air is thick with the enticing aromas of roasted meat and freshly baked bread, mingling with the heady scent of ale. Laughter, clinking mugs, and the occasional burst of a lively song fill the space, creating a warm and inviting ambiance.
 
-Upon entering, visitors are greeted by the rich aroma of [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Martha Stonehill\|Martha Stonehill]]'s hearty stew mingling with the scent of freshly baked bread, promising comfort for both body and soul. The common room hums with life - the clinking of tankards, the low murmur of conversation, and occasional bursts of laughter create a welcoming symphony.
+## Functions and Services
 
-[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Toblen Stonehill\|Toblen Stonehill]] mans the bar with practiced ease, his warm smile and twinkling eyes making every patron feel like a longtime friend. In one corner, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Bucky Boathook\|Bucky Boathook]] can often be found regaling groups of wide-eyed listeners with tales of his seafaring adventures, his boisterous laugh punctuating each outlandish claim.
+- **Hearty Fare:** A menu of home-cooked comfort food, satisfying both body and soul.
+- **Strong Drink:** A well-stocked bar offering a variety of ales, wines, and spirits.
+- **Cozy Quarters:** A selection of rooms, from humble to luxurious, ensuring a restful night's sleep.
+- **Stable Care:** Secure accommodations and quality care for travelers' horses.
 
-[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Tayla Stonebreaker\|Tayla Stonebreaker]] weaves through the crowded room with grace, her tray laden with mugs of ale and plates of steaming food. Her vibrant energy seems to lift the spirits of everyone she passes. Meanwhile, her twin sister [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Alexis Stonebreaker\|Alexis Stonebreaker]] keeps a watchful eye on the proceedings from her quiet post near the ledgers, her subtle efficiency ensuring the inn runs smoothly.
+## Significance to [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]
 
-As night falls, the atmosphere shifts. The hearth fire crackles invitingly, casting dancing shadows on the rough-hewn walls. On some evenings, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Malukha\|Malukha]], the elven bard, takes her place in the corner, her scruffy voice adding an exotic touch to familiar melodies. Patrons lean in closer, sharing confidences and dreams as freely as they share drinks.
+More than just an inn, the Stonehill is the heart of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. It's where locals gather to share news, travelers find solace, and friendships are forged. Its enduring warmth and hospitality are as much a part of the town's identity as the towering hills that surround it.
 
-The Stonehill Inn is more than just a place to rest and refuel. It's the beating heart of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], where past and future mingle, where stories are born and legends take root. Whether one is a battle-worn adventurer or a curious local, within these walls, all find a place to belong - if only for a night.
+**Travel or listen to rumors to learn more about this place!**

@@ -3,9 +3,9 @@
 ---
 
 The Dalelands, nestled in the heart of [[World/Faerun/Faerun\|Faerun]], are a collection of independent, pastoral valleys and forests that share a common heritage and culture. Known for their fierce independence and strong sense of community, the Dales are a beacon of freedom and resilience in a land often beset by tyranny and conflict.
+## Geography and Landscape
 
 ![The Dalelands.jpg](/img/user/Images/Locations/The%20Dalelands/The%20Dalelands.jpg)
-## Geography
 
 The Dalelands are located northeast of [[World/Faerun/Western Lands/Heartlands/Cormyr\|Cormyr]] and southwest of the Moonsea, bordered by the ancient elven forest of Cormanthor. The region is characterized by its lush landscapes, including rolling hills, fertile farmland, dense forests, and clear rivers. Each dale has its own distinct geography and charm, contributing to the region's overall diversity.
 
@@ -36,3 +36,5 @@ The Dalelands are a fertile ground for adventurers, offering a mix of political 
 - **Politics:** The independent nature of the Dales means that political maneuvering and alliances are crucial, offering a rich landscape for intrigue and diplomacy.
 
 The Dalelands remain a vibrant and dynamic region of Faerûn, where the spirit of freedom and adventure thrives in the hearts of its people. Whether you're defending a peaceful dale from invaders or delving into the ancient secrets of Cormanthor, the Dalelands offer a wealth of opportunities for heroism and discovery.
+
+**Travel or listen to rumours to learn more about this place!**

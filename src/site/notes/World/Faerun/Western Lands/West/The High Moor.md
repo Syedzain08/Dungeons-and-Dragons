@@ -3,8 +3,9 @@
 ---
 
 The High Moor is a vast, desolate expanse in the western part of [[World/Faerun/Faerun\|Faerun]], characterized by its harsh terrain, rugged beauty, and ancient secrets. This inhospitable region is a land of sweeping plains, rocky outcrops, and treacherous bogs, presenting a stark contrast to the lush forests and fertile lands that surround it.
-
 ## Geography and Landscape
+
+![The High Moore.jpg](/img/user/Images/Locations/West/The%20High%20Moore.jpg)
 
 - **Vast Expanse:** The High Moor stretches across a significant portion of western [[World/Faerun/Faerun\|Faerun]], bordered by the High Forest to the north, the Delimbiyr Vale to the east, the Sunset Mountains to the south, and the Serpent Hills to the west.
 

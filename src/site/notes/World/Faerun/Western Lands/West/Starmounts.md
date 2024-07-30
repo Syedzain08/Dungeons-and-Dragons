@@ -3,8 +3,9 @@
 ---
 
 The Starmounts, also known as the Starspire Mountains, are an isolated and enigmatic mountain range located in the High Forest of northern [[World/Faerun/Faerun\|Faerun]]. These peaks are renowned for their striking beauty, mystical aura, and the secrets they hold within their rugged terrain.
-
 ## Geography and Landscape
+
+![Starmounts.jpg](/img/user/Images/Locations/West/Starmounts.jpg)
 
 - **Northern High Forest:** The Starmounts are situated within the vast High Forest, surrounded by dense woodlands and ancient trees. This remote location contributes to their mystical and untouched nature.
   

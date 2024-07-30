@@ -3,8 +3,9 @@
 ---
 
 The Crags refer to a rugged and mountainous region located in the western part of [[World/Faerun/Faerun\|Faerun]], near the [[World/Faerun/Western Lands/West/Sword Coast/Sword Coast\|Sword Coast]]. This area is known for its towering peaks, treacherous terrain, and the challenges it poses to adventurers and travelers alike.
-
 ## Geography and Landscape
+
+![The Crags.jpg](/img/user/Images/Locations/West/Sword%20Coast/The%20Crags.jpg)
 
 - **Mountainous Terrain:** The Crags are characterized by steep cliffs, jagged peaks, and deep valleys. The rugged landscape makes travel difficult and dangerous, requiring skilled mountaineering or the guidance of experienced guides.
 

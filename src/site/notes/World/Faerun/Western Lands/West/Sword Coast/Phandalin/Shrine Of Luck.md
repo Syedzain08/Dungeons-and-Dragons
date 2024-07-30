@@ -3,15 +3,24 @@
 ---
 
 Nestled amongst the rough-hewn buildings of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] sits the Shrine of Luck, a beacon of hope in this frontier town. Sunlight filters through a stained-glass window, casting vibrant hues onto worn stone walls. The air hums with a quiet reverence, a stark contrast to the hustle and bustle of the central square.
+## Atmosphere and Function
 
-Steps worn smooth by countless pilgrims lead to a low pedestal where a worn silver disc rests. Carved upon its surface is the image of Tymora, the goddess of fortune, her face eternally skyward and a gentle smile playing on her lips.
+![Shrine Of Luck.jpg](/img/user/Images/Locations/West/Sword%20Coast/Phandalin/Shrine%20Of%20Luck.jpg)
 
-Sweet-smelling incense curls from a bronze brazier, filling the air with a calming scent. Pots overflowing with vibrant flowers, tended with loving care, line the walls, adding pops of color to the otherwise simple interior.
+- **Serene Sanctuary:** The Shrine of Luck provides a peaceful retreat from the chaos of daily life in Phandalin. The sweet scent of incense and vibrant flowers create a calming atmosphere.
+- **Pilgrimage Site:** Steps worn smooth by countless pilgrims lead to a low pedestal where a worn silver disc rests. The image of Tymora, the goddess of fortune, is carved upon its surface, offering a sense of divine presence and hope.
+- **Restful Space:** A few well-worn benches offer a place for weary travelers to rest and offer silent prayers to Tymora for safe passage and good fortune. A basin of cool, clear water sits beside them, reflecting the dancing sunlight filtering through the window.
 
-On the right side, a few well-worn benches offer a place for weary travelers to rest their tired bones and offer a silent prayer to Tymora for safe passage and good fortune. A basin of cool, clear water sits beside them, its surface reflecting the dancing sunlight filtering through the window.
+## Services Offered
 
-A faint scent of parchment and dried herbs hangs in the air, hinting at the scholarly pursuits of the shrine's caretaker. While the building itself may be small, the atmosphere within radiates a sense of peace and quiet solace, a welcome respite for those seeking a moment of calm amidst the chaos of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]].
+- **Blessings and Prayers:** Visitors come to the shrine to seek blessings for good fortune and safe travels. The peaceful environment encourages quiet reflection and prayer.
+- **Healing and Solace:** The shrine's atmosphere provides a sense of solace and healing for those seeking a moment of peace amidst their adventures.
 
-but, the acolyte that resides there, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Shrine Of Luck/Sister Garaele\|Sister Garaele]], is out of town at the moment and it is not open.
+## Significance to [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]
+
+- **Spiritual Center:** The Shrine of Luck serves as a spiritual center for the townsfolk, offering a place of worship and hope. It plays a crucial role in maintaining the morale and spiritual well-being of the community.
+- **Cultural Heritage:** The shrine is a symbol of Phandalin's resilience and faith, representing the town's enduring spirit and connection to the divine.
+
+The acolyte that resides there, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Shrine Of Luck/Sister Garaele\|Sister Garaele]], is out of town at the moment, and the shrine is currently not open.
 
 **Travel or listen to rumors to learn more about this place!**

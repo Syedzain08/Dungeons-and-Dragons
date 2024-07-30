@@ -3,8 +3,9 @@
 ---
 
 Kryptgarden Forest is a dense and ancient woodland located in the western part of [[World/Faerun/Faerun\|Faerun]], near the [[World/Faerun/Western Lands/West/Sword Coast/Sword Coast\|Sword Coast]]. Shrouded in mystery and danger, the forest is known for its deep, dark canopy and hidden secrets, with legends that whisper through its ancient trees and shadows.
-
 ## Geography and Landscape
+
+![Kryptgarden Forest.jpg](/img/user/Images/Locations/West/Sword%20Coast/Kryptgarden%20Forest.jpg)
 
 - **Western Faerûn:** Kryptgarden Forest lies to the east of the Sword Coast, bordered by the Dessarin Valley to the east and the [[World/Faerun/Western Lands/West/Sword Coast/Mere Of Dead Men\|Mere of Dead Men]] to the south. Its proximity to the Sword Coast makes it a significant geographical feature in the region.
   

@@ -3,8 +3,9 @@
 ---
 
 Neverwinter is a bustling and resilient city located along the [[World/Faerun/Western Lands/West/Sword Coast/Sword Coast\|Sword Coast]] in the northwest region of [[World/Faerun/Faerun\|Faerun]]. Renowned for its natural beauty, vibrant culture, and tumultuous history, Neverwinter has earned its place as a prominent city-state in the realm of the Forgotten Realms.
-
 ## Geography and Layout
+
+![Neverwinter.jpg](/img/user/Images/Locations/West/Sword%20Coast/Neverwinter/Neverwinter.jpg)
 
 - **Natural Harbor:** Neverwinter is situated on the northern coast of the [[World/Faerun/Western Lands/West/Sword Coast/Sword Coast\|Sword Coast]], overlooking the Neverwinter Bay. Its strategic location has made it a hub for maritime trade and commerce.
 

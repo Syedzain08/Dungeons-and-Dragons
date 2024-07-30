@@ -2,12 +2,44 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/west/sword-coast/phandalin/barthen-s-provisions/"}
 ---
 
+Barthen's Provisions stands as a cornerstone of commerce in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], offering a wide array of goods to locals and adventurers alike. This unassuming shop plays a vital role in the daily life of the town, providing both necessities and curiosities to its patrons.
+
 ![Barthen's Provisons.jpg](/img/user/Images/DungeonDraft/Barthen's%20Provisions/Barthen's%20Provisons.jpg)
+## Key Figures
 
-Barthen's Provisions is a treasure trove of everyday necessities and curious oddities. The shop's exterior is unassuming, but step inside, and you'll find yourself in a labyrinth of shelves, barrels, and hanging goods.
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Elmar Barthen\|Elmar Barthen]]:** The elderly owner who manages the store with a watchful eye, his years of experience evident in his discerning gaze.
 
-The elderly owner, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Elmar Barthen\|Elmar Barthen]], oversees his domain with a keen eye, despite his advanced years. His employees, the energetic duo of [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Thristle Silkans\|Thristle Silkans]] and [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Ander Silkans\|Ander Silkans]], bring a lively atmosphere to the store with their enthusiastic sales pitch and banter.
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Thristle Silkans\|Thristle Silkans]]:** One half of the energetic employee duo, known for enthusiastic sales pitches and lively banter.
 
-Visitors should be wary - the charm of Barthen's staff can be quite persuasive, leading to unexpectedly large purchases. Yet, for all your basic needs and a few surprises, Barthen's Provisions is the place to go in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]].
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Ander Silkans\|Ander Silkans]]:** The other half of the employee pair, contributing to the shop's vibrant atmosphere with charm and persuasive skills.
+## Layout and Atmosphere
+
+- **Unassuming Exterior:** The shop's outward appearance belies the wealth of goods within.
+
+- **Maze-like Interior:** Inside, customers find themselves navigating a labyrinth of shelves, barrels, and hanging goods.
+
+- **Lively Environment:** The energetic presence of [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Thristle Silkans\|Thristle]] and [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Ander Silkans\|Ander]] creates a bustling, engaging shopping experience.
+
+## Goods and Services
+
+- **Everyday Necessities:** [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Barthen's Provisions/Elmar Barthen\|Barthen]]'s stocks a comprehensive range of basic supplies needed for daily life in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]].
+
+- **Curious Oddities:** Alongside staple items, the shop offers an array of unique and intriguing goods.
+
+- **Adventuring Supplies:** Catering to the adventuring population, basic equipment and rations are likely available.
+
+## Business Practices
+
+- **Persuasive Sales Techniques:** Customers should be prepared for the charming and potentially persuasive nature of the staff.
+
+- **Unexpected Purchases:** The enthusiasm of the employees can sometimes lead patrons to buy more than initially intended.
+
+## Significance to [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]
+
+- **Commercial Hub:** Barthen's serves as a central point for trade and commerce in the town.
+
+- **Community Gathering Spot:** The shop likely functions as a place for locals to catch up on news and gossip while shopping.
+
+Barthen's Provisions is more than just a shop; it's an institution in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. Whether you're a local in need of daily supplies or an adventurer stocking up for a journey, Barthen's offers a unique shopping experience filled with both familiar comforts and surprising discoveries.
 
 **Travel or listen to rumors to learn more about this place!**

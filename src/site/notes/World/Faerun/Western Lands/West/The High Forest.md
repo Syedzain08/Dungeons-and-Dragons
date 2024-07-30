@@ -3,8 +3,9 @@
 ---
 
 The High Forest is one of the largest and oldest forests in [[World/Faerun/Faerun\|Faerun]], a vast expanse of ancient trees, mystical groves, and hidden secrets. Located in the North, The High Forest is a place of great natural beauty and profound magical energy, home to various creatures and races who live in harmony with the land.
-
 ## Geography and Landscape
+
+![The High Forest.jpg](/img/user/Images/Locations/West/The%20High%20Forest.jpg)
 
 - **Vast Expanse:** Covering thousands of square miles, the High Forest stretches from the River Delimbiyr in the south to the Nether Mountains in the north. It is bordered by the Greypeak Mountains to the east and the Evermoors to the west.
   

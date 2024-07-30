@@ -3,8 +3,9 @@
 ---
 
 Waterdeep, also known as the City of Splendors, is one of the most prominent and influential cities in [[World/Faerun/Faerun\|Faerun]]. Located on the western coast along the [[World/Faerun/Western Lands/West/Sword Coast/Sword Coast\|Sword Coast]], Waterdeep serves as a major hub of commerce, culture, and political power. Its grand architecture, bustling markets, and rich history make it a central point of interest for adventurers and travelers from all over the world.
-
 ## Geography and Layout
+
+![Waterdeep.jpg](/img/user/Images/Locations/West/Waterdeep.jpg)
 
 - **Coastal City:** Waterdeep is situated on the coast of the Sea of Swords, featuring a large, bustling harbor that accommodates ships from all over [[World/Faerun/Faerun\|Faerun]] and beyond. The city is built on a series of high bluffs, offering stunning views of the sea.
 

@@ -2,10 +2,25 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/west/sword-coast/phandalin/townmaster-s-hall/"}
 ---
 
-[[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s Town Hall serves as the administrative center of this frontier settlement. The building, while not grand, stands out with its purposeful architecture and the occasional flutter of official notices posted near its entrance.
+The Townmaster's Hall stands as the heart of governance in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], a sturdy stone building that exudes authority and purpose. Its imposing presence is a constant reminder of the order and structure that underpins the burgeoning settlement.
+## Key Figure
 
-Inside, the most notable feature is the job board - a beacon of opportunity for adventurers. Here, brave souls can find various quests, each promising danger, excitement, and, of course, rewards. The board is regularly updated, reflecting the ever-changing needs of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] and its surroundings.
+- **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Harbin Wester\|Harbin Wester]]:** The eponymous townmaster, a man of peculiar habits and unexpected formality, who oversees the town's affairs from his office within these walls.
 
-The Town Hall is also where one might encounter [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Harbin Wester\|Harbin Wester]], the town master. Known for his peculiar mannerisms and occasional formal attire (as evidenced by his tuxedo-clad appearance when expecting [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra Gwynn]]), Wester manages the town's affairs from this hub of local governance.
+## Layout and Atmosphere
+
+![Townmaster's Hall.jpg](/img/user/Images/Locations/West/Sword%20Coast/Phandalin/Townmaster's%20Hall.jpg)
+
+The interior is a blend of practicality and formality. A large, central hall serves as a meeting place for the town council and a gathering point for citizens with official business. Smaller offices line the corridor, each dedicated to a specific aspect of town management. The atmosphere is generally serious and businesslike, punctuated by the occasional burst of heated debate.
+
+## Functions and Services
+
+- **Governance:** The seat of power for [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], where laws are made and enforced.
+- **Record Keeping:** The repository of important town documents and records.
+- **Citizen Services:** A place for residents to conduct official business and seek assistance.
+
+## Significance to Phandalin
+
+As the physical embodiment of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s governing body, the Townmaster's Hall is a symbol of stability and authority. It is where the town's future is shaped and its citizens' concerns are addressed.
 
 **Travel or listen to rumors to learn more about this place!**

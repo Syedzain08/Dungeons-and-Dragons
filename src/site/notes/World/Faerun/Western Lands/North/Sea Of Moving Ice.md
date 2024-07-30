@@ -3,9 +3,9 @@
 ---
 
 The Sea of Moving Ice is a treacherous and mysterious expanse of frigid waters located north of the Spine of the World mountains in [[World/Faerun/Faerun\|Faerun]]. Known for its drifting icebergs, freezing temperatures, and unpredictable currents, this remote sea presents a formidable challenge to sailors and adventurers alike.
-
-![Sea Of Moving Ice.jpg](/img/user/Images/Locations/Sea%20Of%20Moving%20Ice.jpg)
 ## Geography and Climate
+
+![Sea Of Moving Ice.jpg](/img/user/Images/Locations/North/Sea%20Of%20Moving%20Ice.jpg)
 
 - **Frozen Expanse:** The Sea of Moving Ice is characterized by vast sheets of ice that constantly shift and drift with the ocean currents. These ice floes and icebergs create a hazardous labyrinth for ships navigating the waters.
   

@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/heartlands/cormyr/"}
 ---
 
-![Cormyr.jpg](/img/user/Images/Maps/Cormyr.jpg)
-
 Cormyr, often referred to as the Forest Kingdom, is one of the most powerful and influential nations in [[World/Faerun/Faerun\|Faerun]]. Known for its rich history, noble traditions, and strong military, Cormyr stands as a beacon of order and stability amidst the chaotic realms.
-
 ## Geography and Major Cities
+
+![Cormyr.jpg](/img/user/Images/Maps/Cormyr.jpg)
 
 - **Capital:** Suzail, the capital city, is a bustling hub of commerce, politics, and culture. The city is dominated by the Royal Palace and the Azure Dragon, the headquarters of the Purple Dragons, Cormyr’s renowned military force.
 - **Other Major Cities:** Marsember, known as the "Venice of the North" for its canals and waterways; Arabel, a major trade center; and Tilverton, located near the Tilverton Scar, are key urban areas contributing to the kingdom's economy and defense.

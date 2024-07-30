@@ -22,6 +22,7 @@
 - The  [[Lore/Dragon Of Icespire Peak/Official/Factions & Organisations/Zhentarim/Zhentarim\|Zhentarim]]
 - [[Lore/Dragon Of Icespire Peak/Official/Factions & Organisations/The Lord's Alliance/The Lord's Alliance\|The Lord's Alliance]]
 - [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra Gwynn]]
+- Queen [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Cormyr/Suzail/Raedra El Persekhal\|Raedra El Persekhal]]
 ## Introduction
 
 Hi! This is the site for the players of the campaign module "Dragon Of Icespire Peak" as run by Zain Ul Abideen. This site will give you Insight into the lore, worldbuilding, and storyline aspects of the campaign. This site will give you as much information as necessary to ensure a smooth gaming experience but, will only give you very broad knowledge. The details will be updated as you discover it. Some of this information will be readily available online or be in the official lore or module however, some of the lore may not be found anywhere else due to it being homebrew so, without further ado, let us embark on a quest of a lifetime!

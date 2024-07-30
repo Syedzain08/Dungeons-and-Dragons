@@ -3,9 +3,9 @@
 ---
 
 Amn is a prosperous and influential merchant nation located along the western coast of [[World/Faerun/Faerun\|Faerun]], known for its wealth, ambitious traders, and intricate political landscape. This coastal realm is a hub of commerce, intrigue, and cultural diversity, making it a key player in the economies of the Sword Coast and beyond.
-
-![Amn.jpg](/img/user/Images/Locations/Amn.jpg)
 ## Geography and Cities
+
+![Amn.jpg](/img/user/Images/Locations/West/Amn.jpg)
 
 - **Coastal Realm:** Amn stretches along the western shores of [[World/Faerun/Faerun\|Faerun]], boasting a strategic position for maritime trade. Its ports and harbors bustle with ships from across the Sea of Swords and beyond.
   

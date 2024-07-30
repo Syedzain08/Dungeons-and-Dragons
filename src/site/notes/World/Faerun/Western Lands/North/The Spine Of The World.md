@@ -2,13 +2,10 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/north/the-spine-of-the-world/"}
 ---
 
-
-## The Spine of the World
-
 The Spine of the World is a formidable mountain range that stretches across the northern regions of [[World/Faerun/Faerun\|Faerun]], separating the frigid lands of the north from the more temperate climates to the south. Known for its towering peaks, treacherous passes, and ancient mysteries, the Spine of the World is both a natural barrier and a realm of adventure for those brave enough to explore its heights.
-
-![Spine Of The World.jpg](/img/user/Images/Locations/Spine%20Of%20The%20World.jpg)
 ## Geography and Terrain
+
+![Spine Of The World.jpg](/img/user/Images/Locations/North/Spine%20Of%20The%20World.jpg)
 
 - **Majestic Peaks:** The Spine of the World boasts some of the tallest and most rugged peaks in all of [[World/Faerun/Faerun\|Faerun]], with snow-capped summits that pierce the sky. These mountains are the source of numerous rivers and tributaries that flow into the surrounding lands.
   
