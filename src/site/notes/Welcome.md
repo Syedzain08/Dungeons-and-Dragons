@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-# Welcome to the Campaign support website! (V1.2)
+# Welcome to the Campaign support website! (V1.3)
 
 ## What's New?
 
