@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/world/faerun/western-lands/west/starmounts/"}
 ---
 
-The Starmounts, also known as the Starspire Mountains, are an isolated and enigmatic mountain range located in the High Forest of northern [[World/Faerun/Faerun\|Faerun]]. These peaks are renowned for their striking beauty, mystical aura, and the secrets they hold within their rugged terrain.
+The Starmounts, also known as the Starspire Mountains, are an isolated and enigmatic mountain range located in [[World/Faerun/Western Lands/West/The High Forest\|The High Forest]] of northern [[World/Faerun/Faerun\|Faerun]]. These peaks are renowned for their striking beauty, mystical aura, and the secrets they hold within their rugged terrain.
 ## Geography and Landscape
 
 ![Starmounts.jpg](/img/user/Images/Locations/West/Starmounts.jpg)
 
-- **Northern High Forest:** The Starmounts are situated within the vast High Forest, surrounded by dense woodlands and ancient trees. This remote location contributes to their mystical and untouched nature.
+- **Northern [[World/Faerun/Western Lands/West/The High Forest\|High Forest]]:** The Starmounts are situated within the vast [[World/Faerun/Western Lands/West/The High Forest\|High Forest]], surrounded by dense woodlands and ancient trees. This remote location contributes to their mystical and untouched nature.
   
 - **Towering Peaks:** The mountains themselves are tall and steep, with jagged peaks that often pierce the clouds. The highest peaks, including Mount Vision and Hunterhorn, are perpetually snow-capped and visible from great distances.
 
 ## Points of Interest
 
-- **Star Mounts Trail:** An ancient and little-known path that winds through the mountains, used by those seeking to explore the secrets of the Starmounts or to traverse the High Forest.
+- **Star Mounts Trail:** An ancient and little-known path that winds through the mountains, used by those seeking to explore the secrets of the Starmounts or to traverse [[World/Faerun/Western Lands/West/The High Forest\|The High Forest]].
 
 - **Mystic Springs:** Scattered throughout the Starmounts are natural springs and pools believed to have magical properties. These waters are said to enhance the abilities of those who drink from them or to hold ancient enchantments.
 

@@ -29,4 +29,4 @@ In a town where danger lurks beyond every shadow, the Lionshield Coster stands a
 
 For those who seek not just tools, but the means to forge their own destiny in a harsh world, the Lionshield Coster beckons - a promise of quality wrapped in stern efficiency, where every purchase could be the difference between a tale of triumph and a tragedy soon forgotten.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

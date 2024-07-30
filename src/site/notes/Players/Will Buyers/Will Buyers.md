@@ -2,21 +2,17 @@
 {"dg-publish":true,"permalink":"/players/will-buyers/will-buyers/"}
 ---
 
-# Will Buyers
-
-**Arcane Prodigy, Human Wizard (with a Touch of Netheril Blood)**
-
-**Current Mission:**
+## Current Mission:
 
 * An inferno of hatred burns within Will Buyers, fueled not just by the white dragon Cryovain's icy demise of his parents, but also by the scorn he receives for his heritage. Whispers claim he carries the blood of the fallen Netheril Empire, a lineage some view with suspicion and even fear, including the formidable Queen Raedra el Persakhal of Cormyr. This potent mix of vengeance, ostracization, and a connection to a powerful, lost civilization shapes Will's destiny. He is determined to hone his arcane talents, not just to confront Cryovain, but to perhaps even reclaim the legacy of the Netheril, or forge his own path entirely.
 
-**Appearance:**
+## Appearance:
 
 ![Will Buyers (Subhan).jpg](/img/user/Images/Characters/Player%20Characters/Will%20Buyers%20(Subhan).jpg)
 
 Despite his youth, Will carries himself with a seasoned weariness. His eyes, once filled with childish wonder, now flicker with a calculating intelligence and a barely suppressed fury. Will's lean frame belies a potent magical aura that crackles around him like static electricity. He favors simple, functional garb, practicality trumping aesthetics in his pragmatic world. Arcane symbols and wards are often etched into his clothing – a constant reminder of his power and his purpose. However, a subtle hint of his Netheril heritage might peek through – an intricate amulet depicting a stylized flying city, or a symbol tattooed on his skin that resembles a glyph from forgotten Netherese texts. This mark both empowers and isolates him.
 
-**Backstory: A Spark Ignited in Ashes, Marked by Legacy**
+## Backstory: A Spark Ignited in Ashes, Marked by Legacy
 
 The idyllic life Will once knew vanished in an icy inferno. Cryovain, a young white dragon with a taste for destruction, descended upon his village, leaving behind a smoldering crater of ash and grief. A mere boy at the time, Will witnessed the horrific event, the image of his parents consumed by freezing breath forever etched into memory.
 

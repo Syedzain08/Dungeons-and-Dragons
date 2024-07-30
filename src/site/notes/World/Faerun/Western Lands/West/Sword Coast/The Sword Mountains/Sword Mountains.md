@@ -46,4 +46,4 @@ The Sword Mountains are a formidable mountain range stretching along the [[World
 
 The Sword Mountains stand as a testament to the raw power and beauty of nature in the Forgotten Realms. Their treacherous slopes and hidden valleys offer both peril and promise to those brave or foolhardy enough to explore them. From the wind-battered peaks to the deepest, most secret caves, the Sword Mountains challenge adventurers with their harsh climate, dangerous inhabitants, and the lure of long-lost treasures. Whether seeking to uncover ancient secrets, test one's mettle against the elements, or simply traverse the perilous passes, those who venture into the Sword Mountains must be prepared for a journey that will test their limits and potentially change their lives forever.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

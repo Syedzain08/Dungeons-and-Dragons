@@ -2,21 +2,17 @@
 {"dg-publish":true,"permalink":"/players/reginleif-spiritwalker/reginleif-spiritwalker/"}
 ---
 
-# Reginleif Spiritwalker
-
-**Silent Tide, Wood Elf Rogue**
-
-**Current Mission:**
+## Current Mission:
 
 * Beneath Reginleif Spiritwalker's unassuming exterior lies a heart heavy with a shared burden. A wood elf rogue and a close friend to Aegnor Elessar, he too carries the weight of a lost kingdom. While Aegnor yearns for vengeance, Reginleif seeks solace in companionship and a flicker of hope for a new beginning.
 
-**Appearance:**
+## Appearance:
 
 ![Reginleif Spiritwalker (Faizan).jpg](/img/user/Images/Characters/Player%20Characters/Reginleif%20Spiritwalker%20(Faizan).jpg)
 
 Reginleif's demeanor is as calm and steady as the ocean breeze that once filled his sails. His wood elf features, devoid of ostentatious markings, reflect a life lived with quiet dignity. Years spent navigating treacherous waters have honed his physique, but his movements are more fluid than forceful. He favors practicality over ostentation, his garb a blend of worn leather and simple cloth that speaks of journeys undertaken and lessons learned. A glint of well-maintained daggers strapped to his thighs hints at a hidden reserve of skill.
 
-**Backstory: A Friendship Forged in Ashes**
+## Backstory: A Friendship Forged in Ashes
 
 Reginleif Spiritwalker, a wood elf rogue, carved his path on the open seas. Unlike Aegnor, the prince destined for land trade, Reginleif thrived amidst the rhythm of waves and the thrill of navigating uncharted waters. Their paths crossed in bustling marketplaces, a shared heritage forging a bond that transcended social ranks. A friendship blossomed, a haven of understanding amidst the pressures of their respective roles.
 

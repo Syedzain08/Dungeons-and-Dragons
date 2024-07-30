@@ -2,9 +2,14 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/official/quests/dwarven-excavation/"}
 ---
 
+The Dwarven Excavation is an archaeological site located near [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], where the ruins of the ancient dwarven city of Gauntlgrym have been partially unearthed. 
+## Geography and Location
+
 ![Dwarven Cave.jpg](/img/user/Images/Locations/Dwarven%20Cave.jpg)
 
-The Dwarven Excavation is an archaeological site located near [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], where the ruins of the ancient dwarven city of Gauntlgrym have been partially unearthed. This site offers a tantalizing glimpse into the rich history and craftsmanship of dwarven civilization. The excavation is overseen by two dwarf prospectors, Dazzlin and Norbus, who have been exploring the ruins.
+This site offers a tantalizing glimpse into the rich history and craftsmanship of dwarven civilization. The excavation is overseen by two dwarf prospectors, Dazzlin and Norbus, who have been exploring the ruins.
+
+## Our Party's Adventure
 
 Our party's adventure at the Dwarven Excavation was fraught with danger and discovery. Upon entering the site, they encountered two formidable [[Lore/Dragon Of Icespire Peak/Official/Monsters/Ochre Jelly\|Ochre Jellies]], which they bravely defeated. As they delved deeper into the ruins, they uncovered a mysterious puzzle involving a pillar with three holes. Solving this puzzle unleashed a cascade of dwarven skulls, hinting at the site's dark history.
 

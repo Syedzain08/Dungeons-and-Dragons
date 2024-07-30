@@ -42,4 +42,4 @@ Barthen's Provisions stands as a cornerstone of commerce in [[World/Faerun/Weste
 
 Barthen's Provisions is more than just a shop; it's an institution in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. Whether you're a local in need of daily supplies or an adventurer stocking up for a journey, Barthen's offers a unique shopping experience filled with both familiar comforts and surprising discoveries.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

@@ -2,21 +2,17 @@
 {"dg-publish":true,"permalink":"/players/aegnor-elessar/aegnor-elessar/"}
 ---
 
-# Aegnor Elessar
-
-**Shadow of the Greenwood, Wood Elf Rogue**
-
-**Current Mission:**
+## Current Mission:
 
 * A shroud of vengeance hangs heavy upon Aegnor Elessar, a wood elf rogue driven by the memory of a fallen kingdom. Once a prince cloaked in the opulence of trade, he now walks the path of shadows, his heart a steely resolve to see the dragon that devoured his home brought to ruin.
 
-**Appearance:**
+## Appearance:
 
 ![Aegnor Elesasr (arez).jpg](/img/user/Images/Characters/Player%20Characters/Aegnor%20Elesasr%20(arez).jpg)
 
 Aegnor's elven features hint at a life once steeped in privilege. His sharp cheekbones and piercing emerald eyes, however, now hold the glint of a seasoned survivor. Years spent honing his skills in the wilds have etched a lean musculature beneath his weathered cloak. Though he may lack the ostentatious garb of his past, the grace of his movements and the glint of finely crafted daggers strapped to his thighs betray his noble lineage.
 
-**Backstory: From Prince to Shadow**
+## Backstory: From Prince to Shadow
 
 Aegnor Elessar, prince of a once-thriving wood elf kingdom, knew a life of luxury. His days were spent traversing vibrant marketplaces, his keen eye for a bargain honed by his father, the king. Though yearning for a warrior's path, Aegnor dutifully served as a land merchant, a king's decree designed to instill humility within his heir.
 

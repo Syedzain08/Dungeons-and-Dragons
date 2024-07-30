@@ -3,10 +3,9 @@
 ---
 
 Myth Drannor, originally known as Cormanthor, is one of the most storied and legendary cities in the history of [[World/Faerun/Faerun\|Faerun]]. It is renowned for its grandeur, its contributions to magic and culture, and its tragic downfall. This elven city epitomized the height of elven civilization and the ideals of cooperation among the races.
+## Geography and Early History
 
 ![Myth Drannor.jpg](/img/user/Images/Locations/Myth%20Drannor.jpg)
-
-## The Founding and Early History
 
 - **Founding:** Myth Drannor was established within the forest of Cormanthor. The forest itself has long been a significant and mystical location, home to many elven settlements. The city of Myth Drannor was founded around -3983 DR by the Elven Court and became a beacon of elven culture and magic.
 - **Transformation:** In -2204 DR, Coronal Eltargrim Irithyl, the ruler of the elven city, opened it to other races, an act known as the Opening. This welcoming gesture encouraged humans, dwarves, gnomes, and others to settle in the city, transforming it into Myth Drannor, also known as the City of Song.
@@ -36,4 +35,6 @@ Myth Drannor, originally known as Cormanthor, is one of the most storied and leg
 
 ## Conclusion
 
-Myth Drannor stands as a testament to the heights that a society can achieve through cooperation, cultural exchange, and magical innovation. Its history, marked by both triumph and tragedy, serves as a powerful reminder of the potential and peril of such an undertaking. Though the city lies in ruins, its legacy endures, continuing to inspire and influence the world of Faerûn.
+Myth Drannor stands as a testament to the heights that a society can achieve through cooperation, cultural exchange, and magical innovation. Its history, marked by both triumph and tragedy, serves as a powerful reminder of the potential and peril of such an undertaking. Though the city lies in ruins, its legacy endures, continuing to inspire and influence the world of [[World/Faerun/Faerun\|Faerun]].
+
+**Visit the ruins or hear rumours to learn more about this place**

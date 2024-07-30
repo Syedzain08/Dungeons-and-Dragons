@@ -48,3 +48,5 @@ Neverwinter is a bustling and resilient city located along the [[World/Faerun/We
 ## Conclusion
 
 Neverwinter stands as a testament to resilience and renewal in the face of adversity. From its vibrant markets and bustling docks to its storied history and magical heritage, the city offers adventurers and travelers alike a glimpse into the heart of the [[World/Faerun/Western Lands/West/Sword Coast/Sword Coast\|Sword Coast]]. Whether seeking fortune, knowledge, or adventure, those who visit Neverwinter are sure to find a city brimming with opportunities and challenges waiting to be explored.
+
+**Visit the ruins or hear rumours to learn more about this place**

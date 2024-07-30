@@ -2,22 +2,17 @@
 {"dg-publish":true,"permalink":"/players/lucifer-morningstar/lucifer-morningstar/"}
 ---
 
-
-# Lucifer Morningstar
-
-**Champion of Phandalin, Human Fighter**
-
-**Current Mission:**
+## Current Mission:
 
 * Justice burns with an incandescent fury in the eyes of Lucifer Morningstar. This warrior, a beacon of hope residing in Phandalin, joins the fray, his blade a burning vow etched in vengeance and unwavering righteousness. He battles with his own demons, seeking a hiding place from the constant voice in his head by battling his heart out.
 
-**Appearance:**
+## Appearance:
 
 ![lucifer-morningstar(abdul raheem).jpg](/img/user/Images/Characters/Player%20Characters/lucifer-morningstar(abdul%20raheem).jpg)
 
 Years of honing his combat prowess have etched a battle-worn map onto Lucifer's form. His weathered face, a testament to countless battles fought and a single, devastating loss, is framed by a determined set of jaw and a gaze that flickers with a barely contained rage. He wields his blade with practiced ease, its polished surface reflecting the steely resolve that fuels his every action. Whether clad in sturdy leather armor or adorned with the spoils of past victories, Lucifer's presence commands respect, but also emanates a quiet sorrow that stirs a protective instinct in those who meet him.
 
-**Backstory: Scars Etched in Dragonfire**
+## Backstory: Scars Etched in Dragonfire
 
 Phandalin, a haven nestled amidst rolling hills, became Lucifer's reluctant sanctuary three years ago. He arrived, a seasoned warrior bearing the scars of past conflicts, both physical and emotional. Whispers followed him, tales of a village ravaged by a dragon, his parents lost to its fiery breath. The pain, ever-present, fueled a relentless pursuit of justice, a vow etched in the dragonfire that consumed his home.
 

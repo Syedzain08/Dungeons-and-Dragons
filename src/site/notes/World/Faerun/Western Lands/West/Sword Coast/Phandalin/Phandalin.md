@@ -54,4 +54,4 @@ Nestled in the foothills of the Sword Mountains, Phandalin is a small but thrivi
 
 Phandalin may be small, but it holds a unique charm and significance in the region. Its strategic location, rich history, and resilient community make it a vital waypoint for trade and travel. Whether passing through, exploring the nearby wilds, or delving into its local legends, Phandalin offers opportunities and adventures for all who visit.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

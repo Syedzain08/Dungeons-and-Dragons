@@ -3,13 +3,13 @@
 ---
 
 The Netheril Empire, one of the most legendary and powerful civilizations in the history of [[World/Faerun/Faerun\|Faerun]], was a magical empire that thrived from approximately -3859 DR to 339 DR. Renowned for its unparalleled mastery of magic, Netheril's influence and achievements continue to shape the world long after its fall.
-
-![Netheril City.jpg](/img/user/Images/Locations/Netheril%20City.jpg)
 ## Rise of Netheril
 
 Netheril began as a small collection of fishing villages along the Narrow Sea. The discovery of the Nether Scrolls, ancient artifacts of immense magical knowledge, transformed these humble settlements into a beacon of magical advancement. Under the guidance of powerful archmages, the empire expanded rapidly, its influence spreading across the lands.
 
-## Achievements and Society
+## Geography and Achievements
+
+![Netheril City.jpg](/img/user/Images/Locations/Netheril%20City.jpg)
 
 The Netherese society was defined by its incredible magical prowess and innovation. Key features of the empire included:
 
@@ -37,4 +37,6 @@ The fall of Netheril marked the end of an era of magical supremacy, but its lega
 
 ## Conclusion
 
-The Netheril Empire stands as a testament to the heights of magical achievement and the dangers of hubris. Karsus's Folly serves as a cautionary tale about the limits of mortal power and the consequences of overreaching ambition. Though the empire fell, its legacy continues to shape the magical landscape of Faerûn, offering both inspiration and warning to those who dare to wield the arcane arts.
+The Netheril Empire stands as a testament to the heights of magical achievement and the dangers of hubris. Karsus's Folly serves as a cautionary tale about the limits of mortal power and the consequences of overreaching ambition. Though the empire fell, its legacy continues to shape the magical landscape of [[World/Faerun/Faerun\|Faerun]], offering both inspiration and warning to those who dare to wield the arcane arts.
+
+**Visit the ruins or hear rumours to learn more about this place**

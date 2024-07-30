@@ -6,7 +6,8 @@
 
 ## What's New?
 
-* Another 35 articled added, this time they're npc's plus new images for a lot of stuff.
+* Another 35 articled added, this time they're npc's plus new images for all articles.
+* A proper article structure is now in place for all articles.
 - Security firewall has been turned off because of Mr. Arez Asif's complaint about it not loading on his device.
 - A cool file graph has been added. On the side for desktop and on the bottom of the page for mobile users.
 - A backlinks tab has also been added to tell you how many pages reference the current page.

@@ -39,4 +39,4 @@ The inn's common room is a patchwork quilt of comfort, with worn wooden beams an
 
 More than just an inn, the Stonehill is the heart of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. It's where locals gather to share news, travelers find solace, and friendships are forged. Its enduring warmth and hospitality are as much a part of the town's identity as the towering hills that surround it.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

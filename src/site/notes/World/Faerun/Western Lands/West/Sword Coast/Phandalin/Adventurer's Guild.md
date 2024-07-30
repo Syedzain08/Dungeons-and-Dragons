@@ -37,4 +37,4 @@ The Adventurer's Guild stands as a beacon of opportunity and excitement in [[Wor
 
 The Adventurer's Guild is more than just a place of business - it's a second home for many in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. Here, dreams take flight, friendships are forged in the fires of shared adventures, and the spirit of exploration thrives under the guidance of [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adventurer's Guild/Thaelar Moonwhisper\|Thaelar]], [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adventurer's Guild/Brenna Thornheart\|Brenna]], and [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adventurer's Guild/Lyra Oakenbough\|Lyra]].
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

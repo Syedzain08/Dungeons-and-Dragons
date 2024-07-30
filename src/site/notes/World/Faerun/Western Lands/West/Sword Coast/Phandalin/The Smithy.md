@@ -23,5 +23,5 @@ The interior is a symphony of heat, noise, and creation. The forge, a roaring ma
 
 The Smithy is more than just a place of business; it's a vital part of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s infrastructure. From the farmer's plow to the adventurer's sword, Dwalin's work underpins the community's survival and prosperity.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**
 

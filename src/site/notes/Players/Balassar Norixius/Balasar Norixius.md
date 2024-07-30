@@ -2,20 +2,16 @@
 {"dg-publish":true,"permalink":"/players/balassar-norixius/balasar-norixius/"}
 ---
 
-# Balasar Norixius
-
-**Balasar Norixius** - Acolyte of Bahamut, Dragonborn Cleric
-
-**Current Mission:**
+## Current Mission:
 
 * Prophecy whispers of a destiny within the emerald embrace of the Kryptgarden Forest. Led by the cryptic message and the memory of his fallen mentor, Balasar ventures into the unknown, a beacon of hope amidst the tangled shadows.
 
-**Appearance:**
+## Appearance:
 
 ![Images/Characters/Player Characters/rafay-dragonborn.png](/img/user/Images/Characters/Player%20Characters/rafay-dragonborn.png)
 Balasar stands tall and proud, his scales shimmering with the cool hues of glaciers. Unlike his kin, he bears no scars of violence; his polished scales speak of a life dedicated to healing, not destruction. Though his ice dragon heritage grants him a fearsome jawline, his demeanor is gentle, often concealed by a traveler's cloak or a respectful hood.
 
-**Backstory: A Spark of Compassion in the Dragon's Fire**
+## Backstory: A Spark of Compassion in the Dragon's Fire
 
 The world stained crimson. The roars of battle, a symphony of chaos, echoed through the dragonborn village. Young Balasar, no more than a hatchling, witnessed the carnage firsthand. Fire and steel consumed his world, leaving behind a chilling emptiness where his family once resided. Lost and alone, the tremors of grief led him to a secluded mountain range, a place whispered to be the refuge of an ancient dragon.
 
@@ -27,6 +23,6 @@ But a shadow soon darkened Phandalin's idyllic facade. A young white dragon, Cry
 
 The whispers of destiny, however, took a different turn. A cryptic prophecy, delivered by a flickering candle flame or a rustling leaf carried by the wind (depending on whom you ask), spoke of a greater purpose within the heart of the Kryptgarden Forest. The details remained as elusive as the shadows that danced between the ancient trees, yet Balasar knew, with an unwavering certainty, that this was his calling. With a heavy heart, he bade farewell to the sanctuary of Phandalin, leaving behind the warmth of the city for the untamed wilderness. The echo of his mentor's wisdom and the unwavering faith in Bahamut's light became his compass, guiding him towards the mysteries that awaited within the emerald depths of the Kryptgarden Forest.
 
-**Important Miscellaneous Things**
+## Important Miscellaneous Thing:
 
-[[Players/Balassar Norixius/Handouts and goodies/Letters/Letter to balasar 1\|Letter to balasar 1]]
+* [[Players/Balassar Norixius/Handouts and goodies/Letters/Letter to balasar 1\|Letter to balasar 1]]

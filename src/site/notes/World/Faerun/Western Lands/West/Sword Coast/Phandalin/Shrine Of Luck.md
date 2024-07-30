@@ -23,4 +23,4 @@ Nestled amongst the rough-hewn buildings of [[World/Faerun/Western Lands/West/Sw
 
 The acolyte that resides there, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Shrine Of Luck/Sister Garaele\|Sister Garaele]], is out of town at the moment, and the shrine is currently not open.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

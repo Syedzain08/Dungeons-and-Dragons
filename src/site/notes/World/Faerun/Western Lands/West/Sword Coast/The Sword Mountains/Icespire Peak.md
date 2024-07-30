@@ -45,4 +45,4 @@ Icespire Peak is a formidable mountain located near [[World/Faerun/Western Lands
 
 Icespire Peak stands as a formidable challenge in the realm of [[World/Faerun/Faerun\|Faerun]], its snow-capped summit beckoning to the brave and foolhardy alike. The mountain's treacherous slopes, biting cold, and the presence of the dragon [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|Cryovain]] create a gauntlet of dangers for those who dare to ascend its heights. Yet, the allure of hidden treasures, ancient secrets, and the chance to face one of nature's most fearsome creatures continues to draw adventurers to this perilous peak. Whether seeking to conquer the mountain, slay the dragon, or uncover the mysteries of the ancient fortress, those who challenge Icespire Peak must be prepared to face not only the wrath of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|Cryovain]], but also the unforgiving might of the mountain itself.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

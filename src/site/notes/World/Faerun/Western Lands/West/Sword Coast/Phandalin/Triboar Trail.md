@@ -37,4 +37,4 @@ Despite its dangers, the Triboar Trail offers immense opportunities. Trade, adve
 
 The Triboar Trail is more than just a road; it's a living tapestry woven with tales of courage, hardship, and hope. It's a place where dreams are made and fortunes are forged, a testament to the enduring human spirit in the face of wilderness and adversity.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

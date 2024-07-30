@@ -23,4 +23,4 @@ The interior is a blend of practicality and formality. A large, central hall ser
 
 As the physical embodiment of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s governing body, the Townmaster's Hall is a symbol of stability and authority. It is where the town's future is shaped and its citizens' concerns are addressed.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

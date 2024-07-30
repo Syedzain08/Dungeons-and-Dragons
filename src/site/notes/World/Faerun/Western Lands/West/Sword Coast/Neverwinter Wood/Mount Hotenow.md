@@ -43,4 +43,4 @@ Mount Hotenow is a foreboding and desolate mountain located in the northwest reg
 
 Mount Hotenow stands as a place of harsh beauty and chilling danger in the realm of [[World/Faerun/Faerun\|Faerun]]. Its desolate expanses, mysterious history, and foreboding atmosphere make it a destination only for the most daring or desperate souls. Whether seeking to uncover ancient secrets, test one's mettle against the elements, or perhaps lift an age-old curse, those who venture to Mount Hotenow must be prepared to face the mountain's many perils and the possibility that the land itself may be their greatest adversary.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

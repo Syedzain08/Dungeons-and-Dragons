@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/official/factions-and-organisations/zhentarim/zhentarim/"}
 ---
 
-## The Black Network (Zhentarim)
-
-![5e_Zhentarim_Symbol.png](/img/user/Images/Factions/5e_Zhentarim_Symbol.png)
-
 The Black Network, also known as the Zhentarim, is one of the most notorious and influential organizations in [[World/Faerun/Faerun\|Faerun]]. Founded with the goal of amassing power and wealth through any means necessary, the Zhentarim operates as a mercenary company, spy network, and trading consortium, often employing ruthless and unscrupulous methods.
 
 ## History and Origins
@@ -13,6 +9,8 @@ The Black Network, also known as the Zhentarim, is one of the most notorious and
 The Zhentarim was founded in 1261 DR by the powerful wizard Manshoon in the city of Zhentil Keep. Initially formed as a coalition of like-minded individuals seeking power and influence, the organization quickly grew into a formidable force, exerting control over trade routes, political affairs, and military operations across the region.
 
 ## Structure and Organization
+
+![5e_Zhentarim_Symbol.png](/img/user/Images/Factions/5e_Zhentarim_Symbol.png)
 
 The Zhentarim is structured as a hierarchical organization with a clear chain of command. Key figures include:
 

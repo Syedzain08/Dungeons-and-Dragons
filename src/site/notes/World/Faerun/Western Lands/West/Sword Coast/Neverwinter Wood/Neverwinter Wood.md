@@ -45,4 +45,4 @@ The Neverwinter Wood is a vast and ancient forest located near the city of [[Wor
 
 The Neverwinter Wood stands as a place of profound natural beauty and lurking danger. Its dense canopy, twisting paths, and hidden wonders beckon to explorers and adventure-seekers, while its unpredictable nature and rumored inhabitants serve as a stark warning to the unprepared. Whether drawn by the allure of its mysteries, the richness of its resources, or the thrill of its dangers, those who venture into the Neverwinter Wood must remain ever vigilant, for in this ancient forest, beauty and peril walk hand in hand.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

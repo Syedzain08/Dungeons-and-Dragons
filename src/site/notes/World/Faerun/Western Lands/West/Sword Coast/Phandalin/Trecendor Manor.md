@@ -26,4 +26,4 @@ The manor is a labyrinth of opulence. Grand halls, adorned with tapestries and p
 
 Trecendor Manor is more than just a residence; it’s a symbol of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]’s aspirations. The Trecendor family's presence elevates the town's status, bringing a touch of sophistication to the frontier. Their influence is felt in various aspects of town life, from economy to social standing.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

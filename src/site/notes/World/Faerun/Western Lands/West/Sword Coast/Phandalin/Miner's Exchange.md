@@ -33,4 +33,4 @@ The Miner's Exchange is more than just a building - it's the nexus of [[World/Fa
 
 In this arena of numbers and negotiations, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Miner's Exchange/Halia Thornton\|Halia Thornton]] reigns supreme, her influence extending far beyond the Exchange's walls to shape the very future of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] itself.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**

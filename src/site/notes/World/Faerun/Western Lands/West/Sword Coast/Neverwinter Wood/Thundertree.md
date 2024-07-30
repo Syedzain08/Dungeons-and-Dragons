@@ -45,4 +45,4 @@ Thundertree is a ruined settlement located near the [[World/Faerun/Western Lands
 
 Thundertree stands as a haunting testament to the fragility of civilization and the enduring power of nature. Its crumbling structures and overgrown pathways offer a glimpse into a tragic past while presenting new opportunities for discovery and adventure. Those who venture into Thundertree's silent streets must be prepared to face both physical dangers and the weight of its somber history. Whether drawn by the allure of hidden treasures, the desire to uncover long-buried secrets, or simply the thrill of exploring the unknown, visitors to Thundertree will find a place where the past and present collide in a hauntingly beautiful tableau of ruin and renewal.
 
-**Travel or listen to rumors to learn more about this place!**
+**Travel or listen to rumours to learn more about this place!**
