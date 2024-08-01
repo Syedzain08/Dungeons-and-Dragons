@@ -4,6 +4,8 @@
 
 # Welcome to the Campaign support website! (V2.0)
 
+![Welcome.jpg](/img/user/Images/Welcome.jpg)
+
 ## What's New?
 
 * Another 35 articled added, this time they're npc's plus new images for all articles.
@@ -14,8 +16,6 @@
 - A backlinks tab has also been added to tell you how many pages reference the current page.
 - A link preview system had been added for desktop but was removed because it didn't really enhance anything.
 - A table of contents tab has also been added on top. Just click the table of contents heading. (Note: You will not be able use this table of contents function from a preview window)
-
-**I feel like i've added every functionality i wanted so this is the official launch of the site!!**
 ## Interesting Things
 
 - Check out [[Lore/Dragon Of Icespire Peak/Homebrew/The Prophecy/The Prophecy\|The Prophecy]]
