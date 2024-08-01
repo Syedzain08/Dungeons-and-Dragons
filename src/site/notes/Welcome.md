@@ -4,8 +4,7 @@
 
 # Welcome to the Campaign support website! (V2.0)
 
-![Welcome.jpg](/img/user/Images/Welcome.jpg)
-
+![Welcome.png](/img/user/Images/Welcome.png)
 ## What's New?
 
 * Another 35 articled added, this time they're npc's plus new images for all articles.
