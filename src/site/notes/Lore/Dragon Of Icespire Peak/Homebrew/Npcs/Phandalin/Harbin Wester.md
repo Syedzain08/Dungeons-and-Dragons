@@ -2,16 +2,27 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/harbin-wester/"}
 ---
 
+Harbin Wester is the townmaster of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], a figure whose physical presence and personality embody both the town's aspirations and its insecurities.
+
+## Appearance
+
 ![Harbin Wester.jpg](/img/user/Images/Characters/npcs/Phandalin/Harbin%20Wester.jpg)
 
-Harbin Wester fills doorways with his girth and rooms with his nasally pronouncements. His round face, perpetually flushed, is dominated by a bulbous nose that twitches when he's agitated – which is often. Small, watery eyes dart nervously about, as if constantly on the lookout for threats or opportunities.
+Harbin is a corpulent man who fills doorways with his girth. His round, perpetually flushed face is dominated by a bulbous, twitching nose. Small, watery eyes dart nervously, and his balding head is poorly concealed by a thin comb-over. His fine clothes strain over his ample belly, and he wears a mayoral chain and gaudy rings.
 
-His fine clothes, always a touch too tight, strain over his ample belly, buttons threatening to pop with each expansive gesture. A thin comb-over does little to disguise his balding pate, and his multiple chins quiver as he speaks.
+## Personality
 
-Harbin's voice, high-pitched and reedy, carries a forced joviality that barely masks his underlying anxiety. His laugh, a nervous titter, often punctuates his sentences, especially when he's trying to assert his authority.
+Harbin's demeanor is a mix of forced joviality and underlying anxiety. He often speaks with a high-pitched, reedy voice punctuated by nervous laughter. While he attempts to project authority, his fear becomes evident at the mention of dangers like dragons. His gestures are expansive, but his hands often fidget nervously.
 
-Despite his bluster, a shadow of fear flits across his face at the mere mention of dragons or other dangers, revealing the frightened man beneath the official's robes. His hands, soft and adorned with gaudy rings, often fidget with the mayoral chain around his neck.
+## Role and Influence
 
-In Harbin Wester, [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] sees both its aspirations and its insecurities personified, a leader whose ambitions often outstrip his capabilities.
+As [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s townmaster, Harbin represents the town's official leadership. However, his obvious insecurities and the disconnect between his ambitions and capabilities suggest a potentially fragile administration.
 
-**Befriend or hear rumours to learn more about this person**
+## Background and Motivations
+
+**Befriend or hear rumours to learn more**
+## Conclusion
+
+Harbin Wester presents a complex figure for people to interact with. As the townmaster, he's a key source of quests and information about [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. However, his fearful nature and potential incompetence could lead to conflicts. His presence adds a layer of political complexity to the town.
+
+**Befriend or hear rumours to learn more about this person.**

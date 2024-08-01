@@ -2,16 +2,32 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/official/quests/umbrage-hill/"}
 ---
 
-Umbrage Hill, located approximately half a day's walk from [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]], is home to a solitary windmill inhabited by [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra Gwynn]], an alchemist or healer of some renown. The hill's proximity to [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] makes it an accessible location for those seeking [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]'s services or those tasked with ensuring her safety.
+Umbrage Hill is a location visited by the party during their adventures near [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. It features a solitary windmill inhabited by [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra Gwynn]], an alchemist or healer of some renown.
 
-## Our Party's Adventure
+![Adabra's Windmill.jpg](/img/user/Images/Locations/West/Sword%20Coast/Adabra's%20Windmill.jpg)
+## Key Events
 
-![Adabra's Windmill.jpg](/img/user/Images/Locations/Adabra's%20Windmill.jpg)
+1. **[[Lore/Dragon Of Icespire Peak/Official/Monsters/Manticore\|Manticore]] Attack**
+   - The party encountered a fearsome [[Lore/Dragon Of Icespire Peak/Official/Monsters/Manticore\|Manticore]] attempting to break into [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]'s windmill
+   - Through combined efforts, the heroes defeated the Manticore, saving [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]] from danger
 
-Our party's visit to Umbrage Hill was marked by a dramatic encounter with a fearsome [[Lore/Dragon Of Icespire Peak/Official/Monsters/Manticore\|Manticore]]. The beast was attempting to break into [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]'s windmill, intent on making a meal of its occupant. Through their combined efforts, our heroes managed to defeat the [[Lore/Dragon Of Icespire Peak/Official/Monsters/Manticore\|Manticore]], saving [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra Gwynn]] from a grisly fate.
+2. **Convincing [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]
+   - Despite the threat of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Calamities/Cryovain\|Cryovain]], a white dragon, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]] was reluctant to leave her home
+   - Her hesitation was due to attachment to her dwelling and desire to avoid [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Harbin Wester\|Harbin Wester]]'s romantic advances
+   - The party had to convince (and somewhat forcefully persuade) [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]] to leave for her safety
 
-Despite the imminent danger posed by the recently arrived white dragon, [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|Cryovain]], [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra Gwynn]] was initially reluctant to leave her home. Her hesitation stemmed not only from attachment to her dwelling but also from a desire to avoid the romantic advances of [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Harbin Wester\|Harbin Wester]] in Phandalin. It took some convincing (and a bit of forceful persuasion) from our party to ensure Adabra's safety by removing her from the isolated windmill.
+3. **Adabra's Gratitude**
+   - [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]] gifted the party with a healing potion
+   - She agreed to join the group as an ally, offering her alchemical skills and knowledge
 
-In gratitude for their timely rescue, [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra Gwynn]] gifted the party with a healing potion. More significantly, she agreed to join the group as an ally, potentially offering her alchemical skills and knowledge to aid in future adventures. [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]'s connections to the Order of the Knights in Phandalin may also prove valuable in the party's ongoing quests.
+## Aftermath
 
-While the immediate threat of the [[Lore/Dragon Of Icespire Peak/Official/Monsters/Manticore\|Manticore]] has been eliminated, Umbrage Hill and its surroundings remain under the shadow of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|Cryovain]], the white dragon. Adventurers traveling in this area should remain alert to potential dangers, both from natural predators and the looming draconic threat.
+- [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]] left her isolated windmill to join the party
+- The immediate threat of the [[Lore/Dragon Of Icespire Peak/Official/Monsters/Manticore\|Manticore]] was eliminated
+- Umbrage Hill remains under the shadow of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Calamities/Cryovain\|Cryovain]], the white dragon
+
+## Unresolved Points
+- The extent of [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]'s alchemical abilities and how they might aid the party
+- The nature of [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]'s connections to the Order of the Knights in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]
+- The long-term impact of removing [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]] from her established home and practice
+- Potential future threats to Umbrage Hill in [[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]'s absence

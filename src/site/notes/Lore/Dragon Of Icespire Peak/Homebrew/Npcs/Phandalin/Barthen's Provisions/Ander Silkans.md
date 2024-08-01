@@ -2,16 +2,27 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/barthen-s-provisions/ander-silkans/"}
 ---
 
+Ander Silkans is a young elf who brings an air of ethereal grace and efficiency to [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]] in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. Despite his youth, he manages the frontier store with remarkable precision and elegance.
+## Appearance
+
 ![Ander Silkans.jpg](/img/user/Images/Characters/npcs/Phandalin/Barthen's%20Provisions/Ander%20Silkans.jpg)
 
-Ander Silkans moves through [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]] with an ethereal grace that belies his centuries of experience. This tall, slender elf brings an air of timeless efficiency to the frontier store. Ander's most striking feature is his hair, which cascades down his back like spun gold, catching the light in mesmerizing ways as he works.
+Tall and slender, Ander's most captivating feature is his hair, which flows like spun gold, shimmering mesmerizingly as he moves. His eyes are equally remarkable, shifting between deep forest green and warm amber, their hues seeming to dance as he attends to his tasks. Always impeccably dressed, Ander's pressed clothes remain mysteriously unwrinkled despite his constant activity.
 
-His eyes are a marvel in themselves, shifting from deep forest green to warm amber depending on the light and his mood. These hues seem to dance as Ander's gaze flits from task to task, missing no detail in his quest for perfect order.
+## Personality
 
-Ander's slender fingers move with uncanny speed and precision, whether he's restocking shelves, wrapping parcels, or penning inventory lists. His movements are so fluid they almost seem choreographed, turning mundane tasks into something akin to an elegant performance.
+Ander embodies youthful elven ideals of grace and efficiency. His movements are fluid and precise, turning mundane tasks into elegant performances. When he speaks, his voice is soft and melodious, often completing his twin's sentences in a display of close sibling connection.
 
-Always impeccably dressed in pressed clothes that somehow never wrinkle despite his constant activity, Ander embodies the elven ideal of effortless perfection. His voice, when he chooses to use it, is soft and melodious, often completing his twin's sentences before she can finish them.
+## Role and Influence
 
-Ander's presence brings a touch of magic to the simple act of commerce, his elven heritage a living reminder of the wonder that still exists in the world.
+As a key figure in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]], Ander's influence is growing. His presence brings a touch of elven magic to the frontier town's commerce. His natural efficiency and keen attention to detail ensure the store runs smoothly, making it an essential resource for both locals and adventurers.
+
+## Background and Motivations
+
+While Ander is young for an elf, his dedication to his work is evident. His pursuit of perfection in his duties suggests a desire to prove himself and to maintain order and beauty in the rustic setting of Phandalin.
+
+## Conclusion
+
+Ander Silkans transforms the simple act of running a provisions store into an art form. His youthful elven grace and efficiency make [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]] more than just a shop—it's a glimpse into a world where even the mundane can be infused with elegance.
 
 **Befriend or hear rumours to learn more about this person**

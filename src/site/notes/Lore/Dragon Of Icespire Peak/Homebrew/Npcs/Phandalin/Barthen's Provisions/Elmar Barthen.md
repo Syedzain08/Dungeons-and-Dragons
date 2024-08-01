@@ -2,14 +2,26 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/barthen-s-provisions/elmar-barthen/"}
 ---
 
+Elmar Barthen stands as the cornerstone of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s commerce, his general store, [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]], serving as the lifeblood of the frontier town's trade. His presence embodies the practical spirit and hidden depths of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] itself.
+## Appearance
+
 ![Elmar Barthen.jpg](/img/user/Images/Characters/npcs/Phandalin/Barthen's%20Provisions/Elmar%20Barthen.jpg)
 
-Elmar Barthen is the beating heart of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s commerce, his general store a reflection of the man himself: orderly, practical, and unexpectedly deep. His lean frame, slightly stooped from years of leaning over counters and ledgers, moves with deliberate purpose through the aisles of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Barthen's Provisions\|Barthen's Provisions]]. 
+Elmar's lean, slightly stooped frame speaks of years spent tending to his business. His face is a tapestry of wrinkles, each line hinting at untold mercantile adventures. A balding pate fringed by salt-and-pepper hair catches the lamplight as he works. Dark, intelligent eyes peer out from behind wire-rimmed spectacles, missing no detail. A permanent ink stain on his right index finger serves as a badge of his trade.
 
-Elmar's face is a roadmap of mercantile adventures, each wrinkle a story waiting to be told. His balding pate, fringed by salt-and-pepper hair, gleams in the lamplight as he pores over inventory lists. Dark, intelligent eyes peer out from behind wire-rimmed spectacles, missing nothing and weighing everything.
+## Personality
 
-His voice, raspy like pages in an old book, imparts not just the price of goods but nuggets of wisdom to those who linger. Elmar's hands, spotted with age but steady, move with practiced ease as he weighs spices or measures cloth. A faded ink stain on his right index finger is a permanent badge of his trade.
+Elmar moves with deliberate purpose, his actions reflecting years of experience and efficiency. His raspy voice, reminiscent of pages in an old book, dispenses not just prices but also nuggets of wisdom to those who take the time to listen. He embodies a unique blend of practical merchant and frontier dreamer.
 
-In Elmar Barthen, the practicality of a seasoned merchant meets the soul of a frontier dreamer, each sale a small step towards [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s prosperous future.
+## Role and Influence
 
-**Befriend or hear rumours to learn more about this person**
+As the owner of Barthen's Provisions, Elmar is central to Phandalin's economic life. His store is more than just a shop; it's a hub of commerce and community. Elmar's influence extends beyond mere trade, as his experience and wisdom make him a respected figure in town affairs.
+
+## Background and Motivations
+
+**Befriend or hear rumours to learn more**
+## Conclusion
+
+Elmar Barthen is the embodiment of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s commercial spirit and aspirations. His general store serves as both a practical necessity and a symbol of the town's potential. His unique perspective as a seasoned merchant with a dreamer's heart could provide unexpected depth to any adventure.
+
+**Befriend or hear rumours to learn more about this person.**

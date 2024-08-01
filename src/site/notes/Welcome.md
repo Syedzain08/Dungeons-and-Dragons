@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-# Welcome to the Campaign support website! (V1.3)
+# Welcome to the Campaign support website! (V2.0)
 
 ## What's New?
 
 * Another 35 articled added, this time they're npc's plus new images for all articles.
+* A [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 4 Recap\|Session 4 Recap]] has finally been added.
 * A proper article structure is now in place for all articles.
 - Security firewall has been turned off because of Mr. Arez Asif's complaint about it not loading on his device.
 - A cool file graph has been added. On the side for desktop and on the bottom of the page for mobile users.
@@ -34,16 +35,16 @@ Hi! This is the site for the players of the campaign module "Dragon Of Icespire 
 A list of players and player characters are provided below:
 
 1. Arez Asif as [[Players/Aegnor Elessar/Aegnor Elessar\|Aegnor Elessar]]
-2. Muhammed Abdul Rafay Siddique as [[Players/Balassar Norixius/Balasar Norixius\|Balasar Norixius]]
+2. Muhammed Abdul Rafay Siddique as [[Players/Balasar Norixius/Balasar Norixius\|Balasar Norixius]]
 3. Faizan Ul Islam as [[Players/Reginleif Spiritwalker/Reginleif Spiritwalker\|Reginleif Spiritwalker]]
 4. Abdul Raheem as [[Players/Lucifer Morningstar/Lucifer Morningstar\|Lucifer Morningstar]]
 5. Subhan as [[Players/Will Buyers/Will Buyers\|Will Buyers]]
 ## Session Recaps:
-[[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 1 Recap\|Session 1 Recap]]
 
-[[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 2 Recap\|Session 2 Recap]]
-
-[[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 3 Recap\|Session 3 Recap]]
+1. [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 1 Recap\|Session 1 Recap]]
+2. [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 2 Recap\|Session 2 Recap]]
+3. [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 3 Recap\|Session 3 Recap]]
+4. [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 4 Recap\|Session 4 Recap]]
 ## The Setting
 
 This adventure is set in official setting of "The Forgotten Realms". The Forgotten Realms or The Realms is has the most detail in it than any other D&D setting. It was made back in 1967 and thousands of people have contributed to it over the years. More than 10,000 books have been published using it so, truly a gargantuan amount. 

@@ -2,15 +2,27 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/phandalin/the-trecendor-family/cordelia-trecendor/"}
 ---
 
+Cordelia Trecendor, at 12 years old, is the youngest member of the Trecendor family. She embodies youthful energy and curiosity, bringing a spirited contrast to her family's noble bearing in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]].
+## Appearance
+
 ![Cordelia Trecendor.jpg](/img/user/Images/Characters/npcs/Phandalin/Trecendor%20Family/Cordelia%20Trecendor.jpg)
 
-The youngest of the Trecendor clan, Cordelia is a whirlwind of energy and mischief. At twelve years old, she embodies the spirit of adventure that brought her family to the frontier. Her unruly mop of dark curls and bright, curious eyes make her a familiar and beloved sight around Phandalin.
+Cordelia is characterized by her unruly mop of dark curls and bright, curious eyes. Her appearance likely reflects a mix of her parents' features, though her energetic presence sets her apart from the more composed demeanor of her family.
 
-Cordelia's voice is a constant stream of questions and observations, her mind working faster than her mouth can keep up. Her laughter, bright and uninhibited, often echoes through the manor's halls.
+## Personality
 
-Despite her parents' attempts to mold her into a proper young lady, Cordelia is far more interested in exploring the wilderness around [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] and befriending every stray animal she encounters.
+Vivacious and inquisitive, Cordelia is a constant source of questions and observations. Her uninhibited laughter and endless enthusiasm make her a lively presence in both the Trecendor manor and [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]] at large. Despite her noble upbringing, she shows a strong preference for outdoor adventures and animal companionship over formal etiquette.
 
-The Trecendor family brings a touch of nobility and intrigue to [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]'s frontier spirit. Their presence in the town adds layers of political maneuvering, magical mystery, and youthful enthusiasm to the already complex tapestry of the settlement.
+## Role and Influence
 
+While young, Cordelia's friendly nature and curiosity make her a bridge between the Trecendor family and the common folk of [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. Her adventures and interactions with the town and its surroundings could unwittingly provide her family with valuable insights into local life.
 
-**Befriend or hear rumours to learn more about this person**
+## Background and Motivations
+
+Born into nobility but raised on the frontier, Cordelia's background is unique. She is motivated by a pure love of exploration and discovery, uninhibited by the political awareness that shapes her parents' and older brother's actions.
+
+## Conclusion
+
+Cordelia Trecendor adds a touch of innocence and adventurous spirit to her family's presence in [[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]. Her unbridled curiosity might also lead to her discovering secrets that could impact both her family and the town at large.
+
+**Befriend or hear rumours to learn more about this person.**

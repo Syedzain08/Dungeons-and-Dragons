@@ -15,7 +15,7 @@ Icespire Peak is a formidable mountain located near [[World/Faerun/Western Lands
 
 ## Points of Interest
 
-- **Dragon's Lair:** The fortress is rumored to be the lair of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|Cryovain]] the Terror, a fearsome white dragon.
+- **Dragon's Lair:** The fortress is rumored to be the lair of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Calamities/Cryovain\|Cryovain]] the Terror, a fearsome white dragon.
 
 - **Gargoyle Sentinels:** Menacing gargoyles, carved from the mountain itself, watch over the approach to the fortress.
 
@@ -33,16 +33,16 @@ Icespire Peak is a formidable mountain located near [[World/Faerun/Western Lands
 
 - **Avalanche Risk:** The snow-laden slopes are prone to sudden, deadly avalanches.
 
-- **Dragon Threat:** [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|Cryovain]] the Terror poses a lethal danger to those who venture too close to its domain.
+- **Dragon Threat:** [[Lore/Dragon Of Icespire Peak/Official/Monsters/Calamities/Cryovain\|Cryovain]] the Terror poses a lethal danger to those who venture too close to its domain.
 
 ## Mystical and Magical Significance
 
 - **Ancient Secrets:** The fortress may hold arcane knowledge or magical artifacts from a bygone era.
 
-- **Draconic Magic:** The presence of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|Cryovain]] imbues the peak with an aura of powerful, primal magic.
+- **Draconic Magic:** The presence of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Calamities/Cryovain\|Cryovain]] imbues the peak with an aura of powerful, primal magic.
 
 ## Conclusion
 
-Icespire Peak stands as a formidable challenge in the realm of [[World/Faerun/Faerun\|Faerun]], its snow-capped summit beckoning to the brave and foolhardy alike. The mountain's treacherous slopes, biting cold, and the presence of the dragon [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|Cryovain]] create a gauntlet of dangers for those who dare to ascend its heights. Yet, the allure of hidden treasures, ancient secrets, and the chance to face one of nature's most fearsome creatures continues to draw adventurers to this perilous peak. Whether seeking to conquer the mountain, slay the dragon, or uncover the mysteries of the ancient fortress, those who challenge Icespire Peak must be prepared to face not only the wrath of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Cryovain\|Cryovain]], but also the unforgiving might of the mountain itself.
+Icespire Peak stands as a formidable challenge in the realm of [[World/Faerun/Faerun\|Faerun]], its snow-capped summit beckoning to the brave and foolhardy alike. The mountain's treacherous slopes, biting cold, and the presence of the dragon [[Lore/Dragon Of Icespire Peak/Official/Monsters/Calamities/Cryovain\|Cryovain]] create a gauntlet of dangers for those who dare to ascend its heights. Yet, the allure of hidden treasures, ancient secrets, and the chance to face one of nature's most fearsome creatures continues to draw adventurers to this perilous peak. Whether seeking to conquer the mountain, slay the dragon, or uncover the mysteries of the ancient fortress, those who challenge Icespire Peak must be prepared to face not only the wrath of [[Lore/Dragon Of Icespire Peak/Official/Monsters/Calamities/Cryovain\|Cryovain]], but also the unforgiving might of the mountain itself.
 
 **Travel or listen to rumours to learn more about this place!**

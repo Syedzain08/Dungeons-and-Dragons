@@ -2,20 +2,29 @@
 {"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/npcs/cormyr/suzail/percia-elara-ravencrest/"}
 ---
 
+Percia Elara Ravencrest, the Queen's Right Hand, is the embodiment of royal will and courtly power. Her presence in the grand halls of the palace is as unmistakable as it is intimidating.
+## Appearance
+
 ![Percia Elara Ravencrest.jpg](/img/user/Images/Characters/npcs/Cormyr/Suzail/Percia%20Elara%20Ravencrest.jpg)
 
-In the grand halls of the royal palace, where whispers carry secrets and every glance holds meaning, one figure stands apart. Percia, a name that sends shivers down the spines of courtiers and petitioners alike, is the immovable pillar beside the Queen-regent's throne.
+Percia glides through the palace like a stern winter wind, her gowns always in the deepest hues of nobility. A silver pendant bearing her house's symbol rests at her throat, gleaming with ancient prestige. Her stern expression and arched eyebrow have ended more courtly careers than any royal decree. She wields an ornate fan with the precision of a master swordsman, its movements as telling as any spoken word.
 
-Known as the Queen's Right Hand, Percia is more than a mere advisor – she is the embodiment of the crown's will made flesh. When the Queen speaks, it is often Percia's words that flow from royal lips. When silence reigns, it is Percia's keen eyes that observe, cataloging every twitch and tell of those who seek audience.
+## Personality
 
-Her privilege to stand beside the throne is unmatched and unquestioned. In a court where proximity to power is currency, Percia is unimaginably wealthy. Yet she wears this honor not as a gaudy jewel, but as a solemn duty etched into her very being.
+Percia's most defining trait is her overwhelming sense of superiority. In her eyes, nearly everyone is beneath her station, a view she makes no effort to conceal. Her words, when she deigns to speak to lesser folk, are clipped and precise, each syllable dripping with generations of perceived refinement. 
 
-Percia moves through the palace like a stern winter wind – unstoppable, chilling, and utterly necessary. Her gowns, always in the deepest hues of nobility, whisper against stone floors that have known the tread of kings. The silver pendant at her throat – her house's symbol – catches the light, a reminder to all of the ancient blood that flows in her veins.
+This superiority complex is coupled with an unwavering, almost fanatical loyalty to the Queen-regent. Percia is the unyielding voice of tradition and stability, viewing herself as the guardian of the old ways that have kept the kingdom strong. Her keen eyes miss nothing, cataloging every twitch and tell of those who seek audience.
 
-To those beneath her station (and in Percia's eyes, this accounts for nearly everyone), she is a fortress of propriety. Her words, when she deigns to speak to lesser folk, are clipped and precise, each syllable polished by generations of refinement. Her arched eyebrow has ended more courtly careers than any royal decree.
+## Role and Influence
 
-Yet to the Queen-regent, Percia shows a loyalty so fierce it borders on the fanatical. In private councils, she is the voice of tradition, of stability, of the old ways that have kept the kingdom strong. She is also the whisper of caution, ever watchful for threats to her Queen's regency.
+As the Queen's Right Hand, Percia wields immense power. When the Queen speaks, it is often Percia's words that flow from royal lips. In private councils, she is both the voice of caution and the architect of policy, ever watchful for threats to her Queen's regency. Her privilege to stand beside the throne is unquestioned, making her unimaginably wealthy in the currency of courtly influence.
 
-But even as Percia stands resolute, a quiet unease gnaws at her heart. For she knows that her Queen's reign, and perhaps her own influence, has an expiration date. The true king, whose shadow looms over every decision, every policy, will one day step into the light. On that day, Percia knows, the world she has so carefully maintained will shift beneath her feet.
+## Background and Motivations
 
-Until then, she remains vigilant, the stern sentinel beside the throne, her fan snapping open and closed like the wings of a watchful dragon guarding its hoard. In Percia's world, tradition is strength, nobility is duty, and loyalty is everything – no matter the cost.
+Born of ancient blood, Percia views her position not as an honor but as her birthright and solemn duty. However, beneath her immovable exterior lies a quiet unease. She's acutely aware that the Queen's reign—and perhaps her own influence—has an expiration date, with the true king's eventual return looming on the horizon.
+
+## Conclusion
+
+Percia Elara Ravencrest stands as a formidable figure in the current political landscape. Her actions, driven by her superiority complex and unwavering loyalty, have far-reaching consequences. As the realm approaches a pivotal moment with the impending return of the true king, Percia's role in shaping its future—and her struggle to maintain her position—promises to be a source of intense drama and intrigue. Her presence in any scene immediately raises the stakes, offering rich opportunities for conflict, negotiation, and political maneuvering.
+
+**Befriend or hear rumours to learn more about this person.**
