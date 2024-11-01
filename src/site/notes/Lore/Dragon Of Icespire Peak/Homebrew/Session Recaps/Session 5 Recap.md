@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lore/dragon-of-icespire-peak/homebrew/session-recaps/session-5-recap/"}
+---
+
+# **Prophecies, Wolves, and Liches Unbound**
+## **Act 1: Revelations & Relaxations**
+
+Our heroes find themselves a mile away from **[[Lore/Dragon Of Icespire Peak/Official/Quests/Gnomengarde\|Gnomengarde]]**. As **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra Gwynn]]** sets off into the forest with **[[Players/Lucifer Morningstar/Lucifer Morningstar\|Lucifer Morningstar]]** in tow, she disappears into a clearing. With the combined efforts of every party member **(except for the party cleric, [[Players/Balasar Norixius/Balasar Norixius\|Balasar Norixius]], who is in the [[World/Faerun/Western Lands/West/Sword Coast/Kryptgarden Forest\|Kryptgarden Forest]] at this time)** and the familiar of **[[Players/Will Buyers/Will Buyers\|Will Buyers]]**, she is found in the clearing. As the players approach, she glows with a blinding gold light and utters, "A door closes, and another opens, yet the white wolf hunts alone." After these cryptic words and a final message to hurry to the **[[World/Faerun/Western Lands/West/Sword Coast/Kryptgarden Forest\|Kryptgarden Forest]]**, **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]** falls unconscious.
+
+The party, now confused, makes their way back from the forest to **[[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Phandalin\|Phandalin]]**. Arriving just half a day later, they go straight to the **[[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Stonehill Inn\|Stonehill Inn]]** to rest. After some relaxation and a conversation with **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Stonehill Inn/Tayla Stonebreaker\|Tayla Stonebreaker]]**, they leave the **[[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Stonehill Inn\|Inn]]** and head to the **[[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Lionshield Coster\|Lionshield Coster]]** to stock up on weapons and armor. However, they make a crucial mistake by carrying the limp body of **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra]]** with them to the **[[World/Faerun/Western Lands/West/Sword Coast/Phandalin/Lionshield Coster\|Coster]]**. They are spotted by **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/The Trecendor Family/Lysander Trecendor\|Lysander Trecendor]]**, and a squabble ensues. **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/The Trecendor Family/Lysander Trecendor\|Lysander]]** captures the party, and they are taken to court, where he presides as judge in his father **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/The Trecendor Family/Lord Adrien Trecendor\|Lord Adrien Trecendor]]**'s absence. After some convincing, he agrees to let the party go but insists on taking **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/Adabra Gwynn\|Adabra’s]]** body. He also shares an unusual fixation on magical coffee with **[[Players/Will Buyers/Will Buyers\|Will]]**. As they leave, they catch a glimpse of the youngest family member, **[[Lore/Dragon Of Icespire Peak/Homebrew/Npcs/Phandalin/The Trecendor Family/Cordelia Trecendor\|Cordelia Trecendor]]**.
+
+After gathering their wits, the party remembers the pressing need to reach **[[World/Faerun/Western Lands/West/Sword Coast/Kryptgarden Forest\|Kryptgarden Forest]]**. They depart for the forest early the next morning.
+
+## **Act 2: First Gloom, Then Doom**
+
+As the party enters the **[[World/Faerun/Western Lands/West/Sword Coast/Kryptgarden Forest\|Forest of Kryptgarden]]**, an unnatural gloom settles over them. The trees seem to close in, whispering ominously. Reaching a clearing with a flowing river, they decide to ease their worries by bathing—but things take a dark turn. The trees begin to shift, and vines wrap around the party. With their gear on the shore, they scramble to retrieve it as a **Giant Tree** awakens. **Vine-Blights** and the **Giant Tree** attack, and the battle intensifies. Hearing their cries, **[[Players/Balasar Norixius/Balasar Norixius\|Balasar]]** rushes in to help, taking down several **Vine-Blights** with his **Breath Weapon**. In a moment of brilliance, the party manages to lure the **Giant Tree** onto a bridge over the river and set it ablaze, causing it to fall into the river and be swept away.
+
+Though triumphant, the party is weary as they press on, offering few words to the newly rejoined **[[Players/Balasar Norixius/Balasar Norixius\|Balasar]]**. They soon arrive at an abandoned temple and venture inside. On the wall, they find an inscription:
+
+**"Before I start, I must see my end. Destination known, my mind’s journey now begins. Upon my chariot, heart and soul’s fate revealed. In time, all points converge, hope’s strength resteeled. But to earn final peace at the universe’s endless refrain, We must see all in nothingness... before we start again."**
+
+After the party reads this aloud, five **Animated Armors** spring to life. Desperate and cornered, one of the players, **Faizan Ul Islam**, shouts the answer to the riddle, and in a flash of quick thinking, **[[Players/Aegnor Elessar/Aegnor Elessar\|Aegnor Elessar]]** runs to the coffin in the center of the temple, lies down, and closes the lid.
+
+He is immediately transported to **The Ethereal Plane**, where he meets **[[Lore/Dragon Of Icespire Peak/Homebrew/Gods/Ethalion\|Ethalion]]**, a Forgotten Goddess of Mystery, Memories, and History. She bestows him with magic items and poses a few philosophical questions. Unsatisfied with his responses, she takes back the items, and **[[Players/Aegnor Elessar/Aegnor Elessar\|Aegnor]]** is thrown from **The Ethereal Plane**. He wakes up outside the coffin to see his party still battling the **Animated Armors**. Confused, he scans his surroundings, wondering why the **Animated Armors** continue to rise. Then, he looks up—and freezes as a **Lich** descends from a gap in the roof. Their situation has just become infinitely more dire.
+
+---
+
+**That's Where We End Session 5**
+
+**Written & Run By:**
+   **Syed Zain Ul Abideen**
