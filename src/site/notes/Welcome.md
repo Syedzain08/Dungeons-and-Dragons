@@ -8,7 +8,7 @@
 ## What's New?
 
 * Another 35 articled added, this time they're npc's plus new images for all articles.
-* A [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 5 Recap\|Session 5 Recap]] has finally been added.
+* A [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 6 Recap\|Session 6 Recap]] has finally been added.
 * A proper article structure is now in place for all articles.
 - A cool file graph has been added. On the side for desktop and on the bottom of the page for mobile users.
 - A backlinks tab has also been added to tell you how many pages reference the current page.
@@ -43,6 +43,7 @@ A list of players and player characters are provided below:
 3. [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 3 Recap\|Session 3 Recap]]
 4. [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 4 Recap\|Session 4 Recap]]
 5. [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 5 Recap\|Session 5 Recap]]
+6. [[Lore/Dragon Of Icespire Peak/Homebrew/Session Recaps/Session 6 Recap\|Session 6 Recap]]
 ## The Setting
 
 This adventure is set in official setting of "The Forgotten Realms". The Forgotten Realms or The Realms is has the most detail in it than any other D&D setting. It was made back in 1967 and thousands of people have contributed to it over the years. More than 10,000 books have been published using it so, truly a gargantuan amount. 
